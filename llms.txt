@@ -19,12 +19,13 @@
 
 ## Page
 
-- [商务资讯: 政策动态](https://silushangxun.com/insights/category/政策动态/): Browse 4 content items in 政策动态.
-- [商务资讯: 市场观察](https://silushangxun.com/insights/category/市场观察/): Browse 3 content items in 市场观察.
-- [商务资讯: 文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): Browse 3 content items in 文旅商讯.
+- [商务资讯：政策动态](https://silushangxun.com/insights/category/政策动态/): 浏览“政策动态”下的内容，共 4 项。
+- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 3 项。
+- [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 3 项。
 
 ## Pages
 
+- [隐私声明](https://silushangxun.com/privacy/): 了解企业入驻申请资料的收集、使用、保存、跨境处理及申请人权利。
 - [申请企业入驻](https://silushangxun.com/join/): 将企业展示在丝路商讯企业列表中，建立面向中马市场的可信展示入口与合作连接机会。
 - [联系我们](https://silushangxun.com/contact/): 欢迎企业、服务机构、商会组织与项目方联系丝路商讯，开展内容发布、企业入驻与商务合作。
 - [关于丝路商讯](https://silushangxun.com/about/): 丝路商讯致力于成为连接中国与马来西亚商业资讯、企业资源和合作机会的内容平台。

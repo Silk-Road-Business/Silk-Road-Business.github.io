@@ -1,34 +1,63 @@
 (function () {
   const button = document.querySelector('[data-menu-button]');
   const nav = document.querySelector('.site-nav');
+  const header = button ? button.closest('.site-header') : null;
+  const menuMedia = window.matchMedia('(max-width: 980px)');
 
-  if (button && nav) {
+  if (button && nav && header) {
+    const navLinks = Array.from(nav.querySelectorAll('a[href]'));
+
+    function setMenuOpen(open, options) {
+      const settings = options || {};
+      const shouldOpen = Boolean(open && menuMedia.matches);
+      nav.classList.toggle('is-open', shouldOpen);
+      button.setAttribute('aria-expanded', shouldOpen ? 'true' : 'false');
+
+      if (shouldOpen && settings.focusFirst && navLinks[0]) {
+        navLinks[0].focus();
+      } else if (!shouldOpen && settings.restoreFocus) {
+        button.focus();
+      }
+    }
+
+    header.classList.add('is-menu-enhanced');
+    button.hidden = false;
+    setMenuOpen(false);
+
     button.addEventListener('click', function () {
-      const isOpen = nav.classList.toggle('is-open');
-      button.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      const isOpen = button.getAttribute('aria-expanded') === 'true';
+      setMenuOpen(!isOpen, { focusFirst: !isOpen });
     });
-  }
 
-  document.querySelectorAll('[data-share-button]').forEach(function (shareButton) {
-    shareButton.addEventListener('click', async function () {
-      const title = shareButton.getAttribute('data-share-title') || document.title;
-      const url = window.location.href;
-      const status = shareButton.parentElement.querySelector('[data-share-status]');
-
-      try {
-        if (navigator.share) {
-          await navigator.share({ title: title, url: url });
-          if (status) status.textContent = '已打开分享菜单';
-          return;
-        }
-
-        await navigator.clipboard.writeText(url);
-        if (status) status.textContent = '链接已复制';
-      } catch (error) {
-        if (status) status.textContent = '可复制浏览器地址进行分享';
+    document.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && button.getAttribute('aria-expanded') === 'true') {
+        event.preventDefault();
+        setMenuOpen(false, { restoreFocus: true });
       }
     });
-  });
+
+    document.addEventListener('click', function (event) {
+      if (button.getAttribute('aria-expanded') === 'true' && !header.contains(event.target)) {
+        setMenuOpen(false);
+      }
+    });
+
+    nav.addEventListener('click', function (event) {
+      if (event.target.closest('a')) {
+        setMenuOpen(false);
+      }
+    });
+
+    function handleMenuMediaChange(event) {
+      if (!event.matches) setMenuOpen(false);
+    }
+
+    if (menuMedia.addEventListener) {
+      menuMedia.addEventListener('change', handleMenuMediaChange);
+    } else {
+      menuMedia.addListener(handleMenuMediaChange);
+    }
+  }
 
   document.querySelectorAll('[data-company-application-form]').forEach(function (form) {
     const submitButton = form.querySelector('[data-company-application-submit]');
@@ -62,7 +91,8 @@
       }
     }
 
-    if (!submitButton || submitButton.disabled || !responseFrame) return;
+    if (!submitButton || submitButton.disabled || !responseFrame || !fallback) return;
+    fallback.hidden = true;
 
     function bindResponseFrame(frame) {
       frame.addEventListener('load', function () {
