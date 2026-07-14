@@ -1,0 +1,41 @@
+﻿{
+  "id": "business-visits-and-tourism-cooperation",
+  "slug": "business-visits-and-tourism-cooperation",
+  "canonicalUrlKey": "business-visits-and-tourism-cooperation",
+  "route": "/insights/business-visits-and-tourism-cooperation/",
+  "title": "\u5546\u52A1\u8003\u5BDF\u4E0E\u6587\u65C5\u878D\u5408\uFF0C\u6B63\u5728\u6210\u4E3A\u4E2D\u9A6C\u4F01\u4E1A\u4EA4\u6D41\u7684\u65B0\u5165\u53E3",
+  "summary": "\u4F01\u4E1A\u53C2\u8BBF\u3001\u4EA7\u4E1A\u56ED\u8003\u5BDF\u3001\u4F1A\u5956\u65C5\u6E38\u4E0E\u5B9A\u5236\u884C\u7A0B\u7ED3\u5408\uFF0C\u4E3A\u8DE8\u5883\u5408\u4F5C\u63D0\u4F9B\u66F4\u9AD8\u6548\u7684\u7EBF\u4E0B\u8FDE\u63A5\u573A\u666F\u3002",
+  "body": null,
+  "language": "zh-CN",
+  "type": "post",
+  "collection": "posts",
+  "tags": [],
+  "sections": [],
+  "author": "\u4E1D\u8DEF\u5546\u8BAF\u7F16\u8F91\u90E8",
+  "authorType": "Person",
+  "organization": null,
+  "publishedAt": "2026-06-02T00:00:00+08:00",
+  "updatedAt": "2026-07-13T15:01:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": "https://silushangxun.com/insights/business-visits-and-tourism-cooperation/",
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [],
+  "media": [
+    {
+      "kind": "image",
+      "url": "/assets/images/fallback-article.svg",
+      "alt": "\u4E2D\u9A6C\u5546\u52A1\u8003\u5BDF\u4E0E\u6587\u65C5\u878D\u5408\u793A\u610F\u5C01\u9762",
+      "caption": null,
+      "description": null,
+      "license": null
+    }
+  ],
+  "canonical": "https://silushangxun.com/insights/business-visits-and-tourism-cooperation/"
+}

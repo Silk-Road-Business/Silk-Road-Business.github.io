@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620" fill="none">
+  <defs>
+    <linearGradient id="land" x1="120" y1="80" x2="980" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D89B" stop-opacity=".18"/><stop offset="1" stop-color="#63D4CB" stop-opacity=".10"/>
+    </linearGradient>
+    <linearGradient id="road" x1="270" y1="250" x2="890" y2="260" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D89B"/><stop offset=".55" stop-color="#C58A32"/><stop offset="1" stop-color="#63D4CB"/>
+    </linearGradient>
+    <linearGradient id="sea" x1="420" y1="300" x2="790" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6D89B"/><stop offset="1" stop-color="#63D4CB"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="1100" height="620" rx="36" fill="#071D2E"/>
+  <path d="M90 118C214 66 348 54 480 76c158 26 286 21 442-18 47-12 91-13 118-3v364c-93-9-194-8-301 4-133 15-277 22-420-7-99-20-174-26-229-20V118Z" fill="url(#land)"/>
+  <path d="M135 177c76-44 167-61 275-53 82 6 158 29 225 22 92-9 155-45 262-58 54-6 103-4 145 7" stroke="white" stroke-opacity=".10" stroke-width="2"/>
+  <path d="M118 314c91-30 188-36 295-17 123 22 224 20 334-5 112-26 208-28 294-4" stroke="white" stroke-opacity=".08" stroke-width="2"/>
+  <path d="M173 420c115-37 235-36 357-5 107 27 215 30 333 4 68-15 123-18 173-10" stroke="white" stroke-opacity=".07" stroke-width="2"/>
+  <path d="M286 250C389 196 507 184 616 205c89 17 170 42 276 16" stroke="url(#road)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M286 250C389 196 507 184 616 205c89 17 170 42 276 16" stroke="#F6D89B" stroke-opacity=".34" stroke-width="16" stroke-linecap="round" filter="url(#glow)"/>
+  <path d="M325 275C421 334 507 394 622 420c80 18 138 18 203 4" stroke="url(#sea)" stroke-width="6" stroke-linecap="round"/>
+  <path d="M325 275C421 334 507 394 622 420c80 18 138 18 203 4" stroke="#63D4CB" stroke-opacity=".28" stroke-width="16" stroke-linecap="round" filter="url(#glow)"/>
+  <g filter="url(#glow)"><circle cx="286" cy="250" r="10" fill="#F6D89B"/><circle cx="430" cy="210" r="8" fill="#F6D89B"/><circle cx="616" cy="205" r="8" fill="#F6D89B"/><circle cx="892" cy="221" r="10" fill="#63D4CB"/><circle cx="325" cy="275" r="9" fill="#F6D89B"/><circle cx="622" cy="420" r="9" fill="#63D4CB"/><circle cx="825" cy="424" r="10" fill="#63D4CB"/></g>
+  <g stroke-opacity=".26" fill="none"><circle cx="286" cy="250" r="27" stroke="#F6D89B"/><circle cx="892" cy="221" r="27" stroke="#63D4CB"/><circle cx="825" cy="424" r="28" stroke="#63D4CB"/></g>
+  <g font-family="Arial, sans-serif" fill="#FFFFFF"><text x="245" y="222" font-size="24" font-weight="700">中国</text><text x="390" y="183" font-size="18" opacity=".72">中亚</text><text x="575" y="178" font-size="18" opacity=".72">西亚</text><text x="860" y="194" font-size="24" font-weight="700">欧洲</text><text x="581" y="456" font-size="18" opacity=".72">印度洋</text><text x="790" y="462" font-size="24" font-weight="700">马来西亚</text></g>
+  <text x="88" y="82" fill="#F6D89B" font-family="Arial, sans-serif" font-size="28" font-weight="700">一带一路 · 商业连接网络</text>
+  <text x="88" y="115" fill="#FFFFFF" fill-opacity=".64" font-family="Arial, sans-serif" font-size="17">陆上丝绸之路经济带 · 21世纪海上丝绸之路</text>
+  <g stroke="white" stroke-opacity=".05"><path d="M80 520h940"/><path d="M150 110v390M300 110v390M450 110v390M600 110v390M750 110v390M900 110v390"/></g>
+</svg>
