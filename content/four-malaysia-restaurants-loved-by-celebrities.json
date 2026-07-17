@@ -1,0 +1,44 @@
+﻿{
+  "id": "four-malaysia-restaurants-loved-by-celebrities",
+  "slug": "four-malaysia-restaurants-loved-by-celebrities",
+  "canonicalUrlKey": "four-malaysia-restaurants-loved-by-celebrities",
+  "route": "/insights/four-malaysia-restaurants-loved-by-celebrities/",
+  "title": "\u8FD94\u5BB6\u660E\u661F\u540C\u6B3E\u5927\u9A6C\u9910\u5385\uFF0C\u597D\u5403\u5230\u660E\u661F\u90FD\u6392\u961F\uFF01",
+  "summary": "\u56FE\u7247\u6587\u7AE0\uFF0C\u51717\u5F20\u56FE\u7247",
+  "body": null,
+  "language": "zh-CN",
+  "type": "post",
+  "collection": "posts",
+  "tags": [
+    "\u9A6C\u6765\u897F\u4E9A",
+    "\u65C5\u6E38"
+  ],
+  "sections": [],
+  "author": "\u4E1D\u8DEF\u5546\u8BAF\u7F16\u8F91\u90E8",
+  "authorType": "Person",
+  "organization": null,
+  "publishedAt": "2026-07-17T00:00:00+08:00",
+  "updatedAt": "2026-07-17T13:43:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": "https://mp.weixin.qq.com/s/JpjT1-vzMPK1qblNcD0fhw",
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [],
+  "media": [
+    {
+      "kind": "image",
+      "url": "/assets/uploads/5c4f0eaa3871be40.jpg",
+      "alt": "\u8FD94\u5BB6\u660E\u661F\u540C\u6B3E\u5927\u9A6C\u9910\u5385\uFF0C\u597D\u5403\u5230\u660E\u661F\u90FD\u6392\u961F\uFF01",
+      "caption": null,
+      "description": null,
+      "license": null
+    }
+  ],
+  "canonical": "https://silushangxun.com/insights/four-malaysia-restaurants-loved-by-celebrities/"
+}
