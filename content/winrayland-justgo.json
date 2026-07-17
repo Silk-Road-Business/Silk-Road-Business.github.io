@@ -1,0 +1,41 @@
+﻿{
+  "id": "winrayland-justgo",
+  "slug": "winrayland-justgo",
+  "canonicalUrlKey": "winrayland-justgo",
+  "route": "/insights/winrayland-justgo/",
+  "title": "\u597D\u6D88\u606F\uFF01\u73B0\u6709\u5357\u9A6C\u4E5F\u80FD\u4F7F\u7528JustGo APP\u6765\u7F34\u4ED8\u8FC7\u8DEF\u8D39\u4E86\uFF01",
+  "summary": "JustGo Malaysia\u5BA3\u5E03\uFF0C\u5357\u9A6C\u5DF2\u67096\u4E2A\u6536\u8D39\u7AD9\u652F\u6301\u901A\u8FC7JustGo\u5E94\u7528\u7F34\u4ED8\u8FC7\u8DEF\u8D39\uFF0C\u5305\u62ECLukut\u3001Mambau\u3001Tanjung Kupang\u3001Lima Kedai\u3001Perling\u548CKempas\u6536\u8D39\u7AD9\u3002\u7CFB\u7EDF\u5229\u7528\u81EA\u52A8\u8F66\u724C\u8BC6\u522B\u6280\u672F\u62CD\u6444\u5E76\u8BC6\u522B\u8F66\u8F86\u53F7\u7801\uFF0C\u518D\u4ECE\u8F66\u4E3B\u7ED1\u5B9A\u7684\u4FE1\u7528\u5361\u6216\u6263\u8D26\u5361\u81EA\u52A8\u6263\u8D39\u3002\u8BD5\u70B9\u671F\u95F4\u6536\u8D39\u7AD9\u4ECD\u4FDD\u7559\u680F\u6746\uFF0C\u9A7E\u9A76\u8005\u901A\u8FC7\u65F6\u987B\u7EF4\u6301\u6BCF\u5C0F\u65F620\u81F325\u516C\u91CC\uFF0C\u672A\u6765\u7CFB\u7EDF\u8FD8\u8BA1\u5212\u52A0\u5165\u7535\u5B50\u94B1\u5305\u7B49\u652F\u4ED8\u9009\u9879\u3002",
+  "body": null,
+  "language": "zh-CN",
+  "type": "post",
+  "collection": "posts",
+  "tags": [],
+  "sections": [],
+  "author": "\u4E1D\u8DEF\u5546\u8BAF\u7F16\u8F91\u90E8",
+  "authorType": "Person",
+  "organization": null,
+  "publishedAt": "2026-07-17T00:00:00+08:00",
+  "updatedAt": "2026-07-17T03:00:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": "https://www.winrayland.com/2026/07/justgo.html?m=1",
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [],
+  "media": [
+    {
+      "kind": "image",
+      "url": "/assets/uploads/3527d60d00ba44d9.jpg",
+      "alt": "\u597D\u6D88\u606F\uFF01\u73B0\u6709\u5357\u9A6C\u4E5F\u80FD\u4F7F\u7528JustGo APP\u6765\u7F34\u4ED8\u8FC7\u8DEF\u8D39\u4E86\uFF01",
+      "caption": null,
+      "description": null,
+      "license": null
+    }
+  ],
+  "canonical": "https://silushangxun.com/insights/winrayland-justgo/"
+}

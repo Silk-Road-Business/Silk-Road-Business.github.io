@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-14T07:37:00+00:00",
+  "generatedAt": "2026-07-17T03:00:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -497,7 +497,7 @@
           "url": "https://silushangxun.com/insights/business-visits-and-tourism-cooperation/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "\u5E02\u573A\u89C2\u5BDF",
@@ -528,7 +528,7 @@
           "url": "https://silushangxun.com/insights/category/\u5E02\u573A\u89C2\u5BDF/"
         }
       ],
-      "publishedAt": "2026-07-11T00:00:00+08:00"
+      "publishedAt": "2026-07-17T00:00:00+08:00"
     },
     {
       "id": "\u653F\u7B56\u52A8\u6001",
@@ -621,7 +621,7 @@
           "url": "https://silushangxun.com/insights/china-companies-entering-malaysia-basics/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "malaysia-digital-economy-opportunities",
@@ -652,7 +652,7 @@
           "url": "https://silushangxun.com/insights/malaysia-digital-economy-opportunities/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "pagination-test-post-01",
@@ -683,7 +683,7 @@
           "url": "https://silushangxun.com/insights/pagination-test-post-01/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "pagination-test-post-02",
@@ -714,7 +714,7 @@
           "url": "https://silushangxun.com/insights/pagination-test-post-02/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "pagination-test-post-03",
@@ -745,7 +745,7 @@
           "url": "https://silushangxun.com/insights/pagination-test-post-03/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "pagination-test-post-04",
@@ -776,7 +776,7 @@
           "url": "https://silushangxun.com/insights/pagination-test-post-04/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "pagination-test-post-05",
@@ -807,7 +807,7 @@
           "url": "https://silushangxun.com/insights/pagination-test-post-05/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "pagination-test-post-06",
@@ -838,7 +838,7 @@
           "url": "https://silushangxun.com/insights/pagination-test-post-06/"
         }
       ],
-      "publishedAt": "2026-07-13T15:01:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
     },
     {
       "id": "pagination-test-post-07",
@@ -869,7 +869,38 @@
           "url": "https://silushangxun.com/insights/pagination-test-post-07/"
         }
       ],
-      "publishedAt": "2026-07-13T15:00:00+00:00"
+      "publishedAt": "2026-07-15T03:37:00+00:00"
+    },
+    {
+      "id": "winrayland-justgo",
+      "canonicalId": "winrayland-justgo",
+      "route": "/insights/winrayland-justgo/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/winrayland-justgo/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/winrayland-justgo/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/winrayland-justgo.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/winrayland-justgo.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/winrayland-justgo/"
+        }
+      ],
+      "publishedAt": "2026-07-17T03:00:00+00:00"
     },
     {
       "id": "join",

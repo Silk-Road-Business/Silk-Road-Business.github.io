@@ -19,8 +19,8 @@
 
 ## Page
 
+- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 4 项。
 - [商务资讯：政策动态](https://silushangxun.com/insights/category/政策动态/): 浏览“政策动态”下的内容，共 4 项。
-- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 3 项。
 - [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 3 项。
 
 ## Pages
@@ -32,6 +32,7 @@
 
 ## Posts
 
+- [好消息！现有南马也能使用JustGo APP来缴付过路费了！](https://silushangxun.com/insights/winrayland-justgo/): JustGo Malaysia宣布，南马已有6个收费站支持通过JustGo应用缴付过路费，包括Lukut、Mambau、Tanjung Kupang、Lima Kedai、Perling和Kempas收费站。系统利用自动车牌识别技术拍摄并识别车辆号码，再从车主绑定的信用卡或扣账卡自动扣费。试点期间收费站仍保留栏杆，驾驶者通过时须维持每小时20至25公里，未来系统还计划加入电子钱包等支付选项。
 - [【分页测试】政策动态资讯样例 01](https://silushangxun.com/insights/pagination-test-post-01/): 用于验证商务资讯列表第二页、分类筛选与分页导航的测试内容。
 - [【分页测试】市场观察资讯样例 02](https://silushangxun.com/insights/pagination-test-post-02/): 用于验证商务资讯列表第二页、分类筛选与分页导航的测试内容。
 - [【分页测试】文旅商讯资讯样例 03](https://silushangxun.com/insights/pagination-test-post-03/): 用于验证商务资讯列表第二页、分类筛选与分页导航的测试内容。
