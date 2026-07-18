@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-17T20:33:00+00:00",
+  "generatedAt": "2026-07-18T01:29:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -94,7 +94,7 @@
           "url": "https://silushangxun.com/insights/category/\u5E02\u573A\u89C2\u5BDF/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "\u653F\u7B56\u52A8\u6001",
@@ -125,7 +125,7 @@
           "url": "https://silushangxun.com/insights/category/\u653F\u7B56\u52A8\u6001/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "\u6587\u65C5\u5546\u8BAF",
@@ -156,7 +156,7 @@
           "url": "https://silushangxun.com/insights/category/\u6587\u65C5\u5546\u8BAF/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "four-hidden-arts-neighborhoods-in-kuala-lumpur",
@@ -221,6 +221,37 @@
       "publishedAt": "2026-07-17T20:33:00+00:00"
     },
     {
+      "id": "six-malaysian-drinks-summer-refreshment-guide",
+      "canonicalId": "six-malaysian-drinks-summer-refreshment-guide",
+      "route": "/insights/six-malaysian-drinks-summer-refreshment-guide/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/six-malaysian-drinks-summer-refreshment-guide/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/six-malaysian-drinks-summer-refreshment-guide/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/six-malaysian-drinks-summer-refreshment-guide.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/six-malaysian-drinks-summer-refreshment-guide.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/six-malaysian-drinks-summer-refreshment-guide/"
+        }
+      ],
+      "publishedAt": "2026-07-18T01:29:00+00:00"
+    },
+    {
       "id": "tags",
       "canonicalId": "tags",
       "route": "/insights/tags/",
@@ -249,7 +280,7 @@
           "url": "https://silushangxun.com/insights/tags/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "\u4E2D\u56FD",
@@ -342,7 +373,7 @@
           "url": "https://silushangxun.com/insights/tags/\u6587\u5316/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "\u65C5\u6E38",
@@ -373,7 +404,7 @@
           "url": "https://silushangxun.com/insights/tags/\u65C5\u6E38/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "\u9A6C\u6765\u897F\u4E9A",
@@ -404,7 +435,7 @@
           "url": "https://silushangxun.com/insights/tags/\u9A6C\u6765\u897F\u4E9A/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "usts-confucius-institute-chinese-ink-painting-class",
