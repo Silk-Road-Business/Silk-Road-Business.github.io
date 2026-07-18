@@ -3,14 +3,17 @@
 
 ## Page
 
-- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容。
+- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 1 项。
 - [商务资讯：政策动态](https://silushangxun.com/insights/category/政策动态/): 浏览“政策动态”下的内容。
 - [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 5 项。
 - [资讯标签](https://silushangxun.com/insights/tags/): 按标签浏览商务资讯。
+- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 3 项。
+- [标签：企业动态](https://silushangxun.com/insights/tags/企业动态/): 浏览“企业动态”下的内容，共 1 项。
+- [标签：供应链](https://silushangxun.com/insights/tags/供应链/): 浏览“供应链”下的内容，共 1 项。
+- [标签：数字经济](https://silushangxun.com/insights/tags/数字经济/): 浏览“数字经济”下的内容，共 1 项。
 - [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 4 项。
 - [标签：旅游](https://silushangxun.com/insights/tags/旅游/): 浏览“旅游”下的内容，共 3 项。
-- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 5 项。
-- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 2 项。
+- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 6 项。
 - [标签：教育](https://silushangxun.com/insights/tags/教育/): 浏览“教育”下的内容，共 2 项。
 
 ## Pages
@@ -22,6 +25,7 @@
 
 ## Posts
 
+- [PTT协作斥2910万 收购中国物流软件](https://silushangxun.com/insights/ptt-acquires-chinese-logistics-software-for-rm29-1-million/): PTT协作集团拟斥资2910万令吉，向中国vTradEx收购四套物流软件及知识产权，并计划在东南亚等11个国家部署，以强化物流数字化能力与经常性收入。
 - [六杯饮料解锁大马的夏日清凉指南](https://silushangxun.com/insights/six-malaysian-drinks-summer-refreshment-guide/): 图文介绍马来西亚六款消暑饮料，包括南洋咖啡、拉茶、沙梨汁、豆蔻水、三色奶茶与三色果昔，并说明各自风味、制作方法及当地饮用场景。
 - [吉隆坡四个好逛的小众文艺街区](https://silushangxun.com/insights/four-hidden-arts-neighborhoods-in-kuala-lumpur/): 图文盘点吉隆坡四处由老建筑焕新的文艺地标：REXKL、High Street Studio、中山同乡会和中央市场，涵盖书店、咖啡馆、展览与本地手工艺体验。
 - [孔院·课堂｜砂科大孔院第三期“中文+水墨画”兴趣班顺利开课](https://silushangxun.com/insights/usts-confucius-institute-chinese-ink-painting-class/): 砂拉越科技大学孔子学院第三期“中文+水墨画”兴趣班开课，以诗词赏析和水墨创作融合教学，兼顾零基础与进阶学员，促进中马文化交流。

@@ -1,10 +1,10 @@
 ﻿{
-  "id": "\u5E02\u573A\u89C2\u5BDF",
-  "slug": "\u5E02\u573A\u89C2\u5BDF",
-  "canonicalUrlKey": "\u5E02\u573A\u89C2\u5BDF",
-  "route": "/insights/category/\u5E02\u573A\u89C2\u5BDF/",
-  "title": "\u5546\u52A1\u8D44\u8BAF\uFF1A\u5E02\u573A\u89C2\u5BDF",
-  "summary": "\u6D4F\u89C8\u201C\u5E02\u573A\u89C2\u5BDF\u201D\u4E0B\u7684\u5185\u5BB9\uFF0C\u5171 1 \u9879\u3002",
+  "id": "\u6570\u5B57\u7ECF\u6D4E",
+  "slug": "\u6570\u5B57\u7ECF\u6D4E",
+  "canonicalUrlKey": "\u6570\u5B57\u7ECF\u6D4E",
+  "route": "/insights/tags/\u6570\u5B57\u7ECF\u6D4E/",
+  "title": "\u6807\u7B7E\uFF1A\u6570\u5B57\u7ECF\u6D4E",
+  "summary": "\u6D4F\u89C8\u201C\u6570\u5B57\u7ECF\u6D4E\u201D\u4E0B\u7684\u5185\u5BB9\uFF0C\u5171 1 \u9879\u3002",
   "body": "\u003Cul\u003E\n  \u003Cli\u003E\u003Ca href=\u0022/insights/ptt-acquires-chinese-logistics-software-for-rm29-1-million/\u0022\u003EPTT\u534F\u4F5C\u65A52910\u4E07 \u6536\u8D2D\u4E2D\u56FD\u7269\u6D41\u8F6F\u4EF6\u003C/a\u003E\u003C/li\u003E\n\u003C/ul\u003E\n",
   "language": "und",
   "type": "derived",
@@ -28,5 +28,5 @@
   "entities": [],
   "relations": [],
   "media": [],
-  "canonical": "https://silushangxun.com/insights/category/\u5E02\u573A\u89C2\u5BDF/"
+  "canonical": "https://silushangxun.com/insights/tags/\u6570\u5B57\u7ECF\u6D4E/"
 }
