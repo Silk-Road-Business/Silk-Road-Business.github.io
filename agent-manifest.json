@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-20T02:47:00+00:00",
+  "generatedAt": "2026-07-20T04:47:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -280,7 +280,7 @@
           "url": "https://silushangxun.com/insights/roti-tisu-viral-among-chinese-tourists-malaysia/"
         }
       ],
-      "publishedAt": "2026-07-20T02:47:00+00:00"
+      "publishedAt": "2026-07-20T04:47:00+00:00"
     },
     {
       "id": "six-malaysian-drinks-summer-refreshment-guide",
