@@ -1587,6 +1587,15 @@ main {
   font-weight: 650;
 }
 
+.article-copyright-notice {
+  padding: 16px;
+  border: 1px solid #e5e5e5;
+  border-radius: 10px;
+  background: #fafafa;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
 .article-tags {
   max-width: 1200px;
   margin: 42px auto 0;

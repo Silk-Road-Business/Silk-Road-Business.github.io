@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-18T03:28:00+00:00",
+  "generatedAt": "2026-07-20T02:47:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -125,7 +125,7 @@
           "url": "https://silushangxun.com/insights/category/\u653F\u7B56\u52A8\u6001/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-20T00:00:00+08:00"
     },
     {
       "id": "\u6587\u65C5\u5546\u8BAF",
@@ -156,7 +156,7 @@
           "url": "https://silushangxun.com/insights/category/\u6587\u65C5\u5546\u8BAF/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-20T00:00:00+08:00"
     },
     {
       "id": "four-hidden-arts-neighborhoods-in-kuala-lumpur",
@@ -187,7 +187,7 @@
           "url": "https://silushangxun.com/insights/four-hidden-arts-neighborhoods-in-kuala-lumpur/"
         }
       ],
-      "publishedAt": "2026-07-17T20:33:00+00:00"
+      "publishedAt": "2026-07-19T04:55:00+00:00"
     },
     {
       "id": "four-malaysia-restaurants-loved-by-celebrities",
@@ -218,7 +218,7 @@
           "url": "https://silushangxun.com/insights/four-malaysia-restaurants-loved-by-celebrities/"
         }
       ],
-      "publishedAt": "2026-07-17T20:33:00+00:00"
+      "publishedAt": "2026-07-19T04:55:00+00:00"
     },
     {
       "id": "ptt-acquires-chinese-logistics-software-for-rm29-1-million",
@@ -249,7 +249,38 @@
           "url": "https://silushangxun.com/insights/ptt-acquires-chinese-logistics-software-for-rm29-1-million/"
         }
       ],
-      "publishedAt": "2026-07-18T03:28:00+00:00"
+      "publishedAt": "2026-07-19T04:55:00+00:00"
+    },
+    {
+      "id": "roti-tisu-viral-among-chinese-tourists-malaysia",
+      "canonicalId": "roti-tisu-viral-among-chinese-tourists-malaysia",
+      "route": "/insights/roti-tisu-viral-among-chinese-tourists-malaysia/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/roti-tisu-viral-among-chinese-tourists-malaysia/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/roti-tisu-viral-among-chinese-tourists-malaysia/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/roti-tisu-viral-among-chinese-tourists-malaysia.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/roti-tisu-viral-among-chinese-tourists-malaysia.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/roti-tisu-viral-among-chinese-tourists-malaysia/"
+        }
+      ],
+      "publishedAt": "2026-07-20T02:47:00+00:00"
     },
     {
       "id": "six-malaysian-drinks-summer-refreshment-guide",
@@ -280,7 +311,7 @@
           "url": "https://silushangxun.com/insights/six-malaysian-drinks-summer-refreshment-guide/"
         }
       ],
-      "publishedAt": "2026-07-18T01:29:00+00:00"
+      "publishedAt": "2026-07-19T04:55:00+00:00"
     },
     {
       "id": "tags",
@@ -311,7 +342,7 @@
           "url": "https://silushangxun.com/insights/tags/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-20T00:00:00+08:00"
     },
     {
       "id": "\u4E2D\u56FD",
@@ -342,7 +373,7 @@
           "url": "https://silushangxun.com/insights/tags/\u4E2D\u56FD/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-20T00:00:00+08:00"
     },
     {
       "id": "\u4F01\u4E1A\u52A8\u6001",
@@ -528,7 +559,7 @@
           "url": "https://silushangxun.com/insights/tags/\u65C5\u6E38/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-20T00:00:00+08:00"
     },
     {
       "id": "\u9A6C\u6765\u897F\u4E9A",
@@ -559,7 +590,7 @@
           "url": "https://silushangxun.com/insights/tags/\u9A6C\u6765\u897F\u4E9A/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-20T00:00:00+08:00"
     },
     {
       "id": "usts-confucius-institute-chinese-ink-painting-class",
@@ -590,7 +621,7 @@
           "url": "https://silushangxun.com/insights/usts-confucius-institute-chinese-ink-painting-class/"
         }
       ],
-      "publishedAt": "2026-07-17T13:43:00+00:00"
+      "publishedAt": "2026-07-19T04:55:00+00:00"
     },
     {
       "id": "zhejiang-university-and-sabah-chinese-schools-launch-zhiyuan-program",
@@ -621,7 +652,7 @@
           "url": "https://silushangxun.com/insights/zhejiang-university-and-sabah-chinese-schools-launch-zhiyuan-program/"
         }
       ],
-      "publishedAt": "2026-07-17T13:44:00+00:00"
+      "publishedAt": "2026-07-19T04:55:00+00:00"
     },
     {
       "id": "join",
