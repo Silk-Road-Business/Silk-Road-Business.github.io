@@ -4,12 +4,12 @@
 ## Page
 
 - [商务资讯：政策动态](https://silushangxun.com/insights/category/政策动态/): 浏览“政策动态”下的内容。
-- [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 7 项。
+- [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 8 项。
 - [资讯标签](https://silushangxun.com/insights/tags/): 按标签浏览商务资讯。
-- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 4 项。
-- [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 5 项。
+- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 5 项。
+- [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 6 项。
+- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 9 项。
 - [标签：旅游](https://silushangxun.com/insights/tags/旅游/): 浏览“旅游”下的内容，共 5 项。
-- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 8 项。
 - [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 1 项。
 - [标签：企业动态](https://silushangxun.com/insights/tags/企业动态/): 浏览“企业动态”下的内容，共 1 项。
 - [标签：供应链](https://silushangxun.com/insights/tags/供应链/): 浏览“供应链”下的内容，共 1 项。
@@ -25,6 +25,7 @@
 
 ## Posts
 
+- [马来西亚豫商联合会协办中医针灸分享暨义诊活动](https://silushangxun.com/insights/malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic/): 马中友好协会主办、马来西亚豫商联合会协办的中医针灸分享暨义诊活动在吉隆坡举行，为社区居民提供健康咨询、针灸体验与中医养生知识讲解，推动中马民间健康文化交流。
 - [国内38℃“蒸桑拿”？不如“逃”去马来西亚这两个小众秘境清凉一夏！](https://silushangxun.com/insights/escape-malaysia-for-a-cool-summer/): 当国内暑热持续时，文章推荐马来西亚福隆港与武吉丁宜法国村两处高原避暑地，介绍凉爽气温、异国建筑及观鸟、骑马等旅行体验，适合夏日短途出行。
 - [人手一份Roti tisu拍照打卡 网民：马来西亚印度煎饼之乱](https://silushangxun.com/insights/roti-tisu-viral-among-chinese-tourists-malaysia/): 马来西亚常见的Roti tisu因中国游客打卡而走红，双峰塔附近嘛嘛档成为热门拍照点，也引发本地网民对小红书旅游潮与消费文化的热议。
 - [PTT协作斥2910万 收购中国物流软件](https://silushangxun.com/insights/ptt-acquires-chinese-logistics-software-for-rm29-1-million/): PTT协作集团拟斥资2910万令吉，向中国vTradEx收购四套物流软件及知识产权，并计划在东南亚等11个国家部署，以强化物流数字化能力与经常性收入。

@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-20T12:20:00+00:00",
+  "generatedAt": "2026-07-21T18:25:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -125,7 +125,7 @@
           "url": "https://silushangxun.com/insights/category/\u653F\u7B56\u52A8\u6001/"
         }
       ],
-      "publishedAt": "2026-07-20T00:00:00+08:00"
+      "publishedAt": "2026-07-22T00:00:00+08:00"
     },
     {
       "id": "\u6587\u65C5\u5546\u8BAF",
@@ -156,7 +156,7 @@
           "url": "https://silushangxun.com/insights/category/\u6587\u65C5\u5546\u8BAF/"
         }
       ],
-      "publishedAt": "2026-07-20T00:00:00+08:00"
+      "publishedAt": "2026-07-22T00:00:00+08:00"
     },
     {
       "id": "escape-malaysia-for-a-cool-summer",
@@ -250,6 +250,37 @@
         }
       ],
       "publishedAt": "2026-07-19T04:55:00+00:00"
+    },
+    {
+      "id": "malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic",
+      "canonicalId": "malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic",
+      "route": "/insights/malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/malaysia-henan-association-traditional-chinese-medicine-acupuncture-clinic/"
+        }
+      ],
+      "publishedAt": "2026-07-21T18:25:00+00:00"
     },
     {
       "id": "ptt-acquires-chinese-logistics-software-for-rm29-1-million",
@@ -373,7 +404,7 @@
           "url": "https://silushangxun.com/insights/tags/"
         }
       ],
-      "publishedAt": "2026-07-20T00:00:00+08:00"
+      "publishedAt": "2026-07-22T00:00:00+08:00"
     },
     {
       "id": "\u4E2D\u56FD",
@@ -404,7 +435,7 @@
           "url": "https://silushangxun.com/insights/tags/\u4E2D\u56FD/"
         }
       ],
-      "publishedAt": "2026-07-20T00:00:00+08:00"
+      "publishedAt": "2026-07-22T00:00:00+08:00"
     },
     {
       "id": "\u4F01\u4E1A\u52A8\u6001",
@@ -559,7 +590,7 @@
           "url": "https://silushangxun.com/insights/tags/\u6587\u5316/"
         }
       ],
-      "publishedAt": "2026-07-20T00:00:00+08:00"
+      "publishedAt": "2026-07-22T00:00:00+08:00"
     },
     {
       "id": "\u65C5\u6E38",
@@ -621,7 +652,7 @@
           "url": "https://silushangxun.com/insights/tags/\u9A6C\u6765\u897F\u4E9A/"
         }
       ],
-      "publishedAt": "2026-07-20T00:00:00+08:00"
+      "publishedAt": "2026-07-22T00:00:00+08:00"
     },
     {
       "id": "usts-confucius-institute-chinese-ink-painting-class",
