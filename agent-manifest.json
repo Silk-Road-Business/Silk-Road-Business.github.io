@@ -593,6 +593,37 @@
       "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
+      "id": "\u4E2D\u9A6C\u7ECF\u8D38",
+      "canonicalId": "\u4E2D\u9A6C\u7ECF\u8D38",
+      "route": "/insights/tags/\u4E2D\u9A6C\u7ECF\u8D38/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/tags/\u4E2D\u9A6C\u7ECF\u8D38/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/tags/\u4E2D\u9A6C\u7ECF\u8D38/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/\u4E2D\u9A6C\u7ECF\u8D38.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/\u4E2D\u9A6C\u7ECF\u8D38.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/tags/\u4E2D\u9A6C\u7ECF\u8D38/"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00+08:00"
+    },
+    {
       "id": "\u4F01\u4E1A\u52A8\u6001",
       "canonicalId": "\u4F01\u4E1A\u52A8\u6001",
       "route": "/insights/tags/\u4F01\u4E1A\u52A8\u6001/",
