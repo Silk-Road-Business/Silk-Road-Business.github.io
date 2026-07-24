@@ -717,6 +717,37 @@
       "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
+      "id": "\u6295\u8D44",
+      "canonicalId": "\u6295\u8D44",
+      "route": "/insights/tags/\u6295\u8D44/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/tags/\u6295\u8D44/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/tags/\u6295\u8D44/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/\u6295\u8D44.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/\u6295\u8D44.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/tags/\u6295\u8D44/"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00+08:00"
+    },
+    {
       "id": "\u6559\u80B2",
       "canonicalId": "\u6559\u80B2",
       "route": "/insights/tags/\u6559\u80B2/",

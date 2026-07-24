@@ -1237,48 +1237,41 @@ main {
 .consent-banner {
   position: fixed;
   z-index: 1200;
-  right: 24px;
-  bottom: 24px;
-  left: 24px;
+  right: auto;
+  bottom: 18px;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
 .consent-banner__panel {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) auto;
-  gap: 28px;
-  align-items: end;
-  width: min(1120px, 100%);
-  margin: 0 auto;
-  padding: 24px 26px;
+  grid-template-columns: 1fr;
+  gap: 10px;
+  align-items: stretch;
+  width: min(960px, calc(100vw - 48px));
+  padding: 14px 18px;
   border: 1px solid rgba(13, 58, 91, .16);
-  border-radius: 22px;
+  border-radius: 14px;
   background: var(--white);
   box-shadow: 0 24px 72px rgba(7, 29, 46, .24);
 }
 
 .consent-banner__copy {
-  max-width: 720px;
-}
-
-.consent-banner__eyebrow {
-  margin: 0 0 5px;
-  color: var(--accent-gold);
-  font-size: 12px;
-  font-weight: 800;
-  letter-spacing: .12em;
-  text-transform: uppercase;
+  max-width: 100%;
 }
 
 .consent-banner h2 {
   margin: 0;
   color: var(--deep-navy);
-  font-size: clamp(21px, 2.4vw, 28px);
+  font-size: 18px;
+  line-height: 1.25;
 }
 
 .consent-banner__copy > p:last-child {
-  margin: 8px 0 0;
+  margin: 4px 0 0;
   color: var(--slate);
-  line-height: 1.7;
+  font-size: 13px;
+  line-height: 1.55;
 }
 
 .consent-banner a {
@@ -1291,19 +1284,26 @@ main {
 .consent-banner__actions {
   display: flex;
   flex-wrap: wrap;
-  gap: 10px;
+  gap: 8px;
   justify-content: flex-end;
 }
 
 .consent-button {
-  min-height: 46px;
-  padding: 0 18px;
+  min-height: 34px;
+  padding: 0 14px;
   border: 1px solid var(--deep-navy);
   border-radius: 999px;
   font: inherit;
+  font-size: 14px;
   font-weight: 800;
   cursor: pointer;
   transition: background .2s ease, border-color .2s ease, color .2s ease, transform .2s ease;
+}
+
+@media (min-width: 981px) {
+  .consent-banner__copy > p:last-child {
+    white-space: nowrap;
+  }
 }
 
 .consent-button:hover {
@@ -1505,13 +1505,15 @@ main {
     right: 12px;
     bottom: 12px;
     left: 12px;
+    transform: none;
   }
 
   .consent-banner__panel {
     grid-template-columns: 1fr;
-    gap: 18px;
-    padding: 20px;
-    border-radius: 18px;
+    gap: 10px;
+    width: 100%;
+    padding: 14px;
+    border-radius: 14px;
   }
 
   .consent-banner__actions {
