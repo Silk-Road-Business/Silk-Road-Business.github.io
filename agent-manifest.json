@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-24T17:56:00+00:00",
+  "generatedAt": "2026-07-24T19:04:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -500,6 +500,37 @@
       "publishedAt": "2026-07-20T04:47:00+00:00"
     },
     {
+      "id": "sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035",
+      "canonicalId": "sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035",
+      "route": "/insights/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035/"
+        }
+      ],
+      "publishedAt": "2026-07-24T19:04:00+00:00"
+    },
+    {
       "id": "six-malaysian-drinks-summer-refreshment-guide",
       "canonicalId": "six-malaysian-drinks-summer-refreshment-guide",
       "route": "/insights/six-malaysian-drinks-summer-refreshment-guide/",
@@ -779,6 +810,37 @@
       "publishedAt": "2026-07-25T00:00:00+08:00"
     },
     {
+      "id": "\u653F\u7B56\u6CD5\u89C4",
+      "canonicalId": "\u653F\u7B56\u6CD5\u89C4",
+      "route": "/insights/tags/\u653F\u7B56\u6CD5\u89C4/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/tags/\u653F\u7B56\u6CD5\u89C4/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/tags/\u653F\u7B56\u6CD5\u89C4/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/\u653F\u7B56\u6CD5\u89C4.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/\u653F\u7B56\u6CD5\u89C4.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/tags/\u653F\u7B56\u6CD5\u89C4/"
+        }
+      ],
+      "publishedAt": "2026-07-25T00:00:00+08:00"
+    },
+    {
       "id": "\u6559\u80B2",
       "canonicalId": "\u6559\u80B2",
       "route": "/insights/tags/\u6559\u80B2/",
@@ -962,7 +1024,7 @@
           "url": "https://silushangxun.com/insights/tags/\u9A6C\u6765\u897F\u4E9A/page/2/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-18T00:00:00+08:00"
     },
     {
       "id": "usts-confucius-institute-chinese-ink-painting-class",
