@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-24T12:32:00+00:00",
+  "generatedAt": "2026-07-24T14:38:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -125,7 +125,7 @@
           "url": "https://silushangxun.com/insights/category/\u5E02\u573A\u89C2\u5BDF/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u653F\u7B56\u52A8\u6001",
@@ -250,6 +250,37 @@
         }
       ],
       "publishedAt": "2026-07-24T12:32:00+00:00"
+    },
+    {
+      "id": "chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou",
+      "canonicalId": "chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou",
+      "route": "/insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/"
+        }
+      ],
+      "publishedAt": "2026-07-24T14:38:00+00:00"
     },
     {
       "id": "escape-malaysia-for-a-cool-summer",
@@ -652,7 +683,7 @@
           "url": "https://silushangxun.com/insights/tags/\u4F01\u4E1A\u52A8\u6001/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u4F9B\u5E94\u94FE",

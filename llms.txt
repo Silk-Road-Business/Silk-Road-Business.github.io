@@ -3,22 +3,22 @@
 
 ## Page
 
+- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 2 项。
 - [商务资讯：政策动态](https://silushangxun.com/insights/category/政策动态/): 浏览“政策动态”下的内容。
 - [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 11 项。
 - [资讯标签](https://silushangxun.com/insights/tags/): 按标签浏览商务资讯。
 - [标签：东盟](https://silushangxun.com/insights/tags/东盟/): 浏览“东盟”下的内容，共 1 项。
-- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 8 项。
-- [标签：中马经贸](https://silushangxun.com/insights/tags/中马经贸/): 浏览“中马经贸”下的内容。
+- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 9 项。
+- [标签：中马经贸](https://silushangxun.com/insights/tags/中马经贸/): 浏览“中马经贸”下的内容，共 1 项。
+- [标签：企业动态](https://silushangxun.com/insights/tags/企业动态/): 浏览“企业动态”下的内容，共 2 项。
 - [标签：教育](https://silushangxun.com/insights/tags/教育/): 浏览“教育”下的内容，共 3 项。
 - [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 9 项。
 - [标签：旅游](https://silushangxun.com/insights/tags/旅游/): 浏览“旅游”下的内容，共 7 项。
-- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 11 项。
-- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 1 项。
-- [标签：企业动态](https://silushangxun.com/insights/tags/企业动态/): 浏览“企业动态”下的内容，共 1 项。
+- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 12 项。
 - [标签：供应链](https://silushangxun.com/insights/tags/供应链/): 浏览“供应链”下的内容，共 1 项。
 - [标签：数字经济](https://silushangxun.com/insights/tags/数字经济/): 浏览“数字经济”下的内容，共 1 项。
 - [商务资讯：文旅商讯 - 第 2 页](https://silushangxun.com/insights/category/文旅商讯/page/2/): 浏览“文旅商讯”下的内容，第 2 页，显示第 10-11 项，共 11 项。
-- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-11 项，共 11 项。
+- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-12 项，共 12 项。
 
 ## Pages
 
@@ -29,6 +29,7 @@
 
 ## Posts
 
+- [重庆轨道交通与马来西亚Prasarana签署合作备忘，运营体系国际输出](https://silushangxun.com/insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/): 重庆轨道交通与马来西亚国家基建公司签署合作备忘录，围绕单轨运营管理、资产管理、预测性维修、数字化运营和人才培养开展合作，显示中国轨道交通国际化正从工程建设走向运营体系输出。
 - [欧阳玉靖大使出席中国—马来西亚旅游对话](https://silushangxun.com/insights/ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue/): 7月22日，中国—马来西亚旅游对话在兰卡威举行，两国政府旅游部门及业界代表300余人出席。与会方提出加强航班联通和旅游合作，推动双向客流与人文交流。
 - [中国—东盟旅游对话在马来西亚兰卡威举行](https://silushangxun.com/insights/china-asean-tourism-dialogue-held-in-langkawi-malaysia/): 7月22日，中国—东盟旅游对话在兰卡威举行，政府旅游部门和业界代表300余人参加。各方提出加强互联互通、可持续发展、旅游安全与创新合作，共促区域旅游繁荣。
 - [孔院·新闻| 砂科大孔院受邀参加“我爱砂拉越”系列庆祝活动](https://silushangxun.com/insights/swinburne-confucius-institute-joins-i-love-sarawak-celebrations/): 砂拉越科技大学孔子学院受邀参与“我爱砂拉越”庆祝活动，以书法和剪纸工作坊服务当地学生。活动展现多元文化交流活力，进一步增进青年对中华文化的了解与兴趣。
