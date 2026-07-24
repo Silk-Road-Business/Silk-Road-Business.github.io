@@ -172,4 +172,68 @@
       }, timeoutMs);
     });
   });
+
+  const consentBanner = document.querySelector('[data-consent-banner]');
+  const consentAccept = document.querySelector('[data-consent-accept]');
+  const consentReject = document.querySelector('[data-consent-reject]');
+  const consentStatus = document.querySelector('[data-consent-status]');
+  const consentSettingsButtons = Array.from(document.querySelectorAll('[data-consent-settings]'));
+
+  if (consentBanner && consentAccept && consentReject && window.SRBizConsent) {
+    let returnFocus = null;
+
+    function setConsentStatus(message) {
+      if (consentStatus) consentStatus.textContent = message;
+    }
+
+    function showConsentBanner(options) {
+      const settings = options || {};
+      consentBanner.hidden = false;
+      if (settings.focus) consentAccept.focus();
+    }
+
+    function hideConsentBanner(message) {
+      consentBanner.hidden = true;
+      setConsentStatus(message);
+
+      const focusTarget = returnFocus || document.querySelector('#main-content');
+      returnFocus = null;
+      if (focusTarget && typeof focusTarget.focus === 'function') {
+        try {
+          focusTarget.focus({ preventScroll: true });
+        } catch (_) {
+          focusTarget.focus();
+        }
+      }
+    }
+
+    if (!window.SRBizConsent.current()) {
+      showConsentBanner();
+    }
+
+    consentAccept.addEventListener('click', function () {
+      window.SRBizConsent.acceptAnalytics();
+      hideConsentBanner('已同意分析 Cookie。您可以随时通过页脚中的 Cookie 设置修改选择。');
+    });
+
+    consentReject.addEventListener('click', function () {
+      window.SRBizConsent.rejectAnalytics();
+      hideConsentBanner('已保持仅使用必要功能，分析 Cookie 未启用。');
+    });
+
+    consentSettingsButtons.forEach(function (settingsButton) {
+      settingsButton.hidden = false;
+      settingsButton.addEventListener('click', function () {
+        returnFocus = settingsButton;
+        showConsentBanner({ focus: true });
+      });
+    });
+
+    consentBanner.addEventListener('keydown', function (event) {
+      if (event.key === 'Escape' && window.SRBizConsent.current()) {
+        event.preventDefault();
+        hideConsentBanner('Cookie 设置未更改。');
+      }
+    });
+  }
 })();

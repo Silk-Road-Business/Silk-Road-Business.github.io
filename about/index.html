@@ -1,7 +1,25 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 
-<head>
+<head><!-- bukit:analytics:google-consent:default:head:start -->
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('consent', 'default', {
+  'ad_storage': 'denied',
+  'analytics_storage': 'denied',
+  'ad_user_data': 'denied',
+  'ad_personalization': 'denied',
+  'wait_for_update': 500
+});
+</script>
+<!-- bukit:analytics:google-consent:default:head:end --><!-- bukit:analytics:google-analytics:G-MCQMG3QT3X:head:start -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCQMG3QT3X"></script>
+<script>
+gtag('js', new Date());
+gtag('config', 'G-MCQMG3QT3X');
+</script>
+<!-- bukit:analytics:google-analytics:G-MCQMG3QT3X:head:end -->
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
@@ -10,6 +28,7 @@
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
   
   
+  <script src="/assets/js/consent.js"></script>
   <link rel="stylesheet" href="/assets/css/style.css">
   <title>关于丝路商讯 ｜ 丝路商讯</title>
   <link rel="canonical" href="https://silushangxun.com/about/" />
@@ -28,15 +47,7 @@
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebSite","name":"\u4E1D\u8DEF\u5546\u8BAF","url":"https://silushangxun.com/"}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"\u5173\u4E8E\u4E1D\u8DEF\u5546\u8BAF","description":"\u4E86\u89E3\u4E1D\u8DEF\u5546\u8BAF\u5982\u4F55\u8FDE\u63A5\u4E2D\u56FD\u4E0E\u9A6C\u6765\u897F\u4E9A\u5546\u4E1A\u8D44\u8BAF\u3001\u4F01\u4E1A\u8D44\u6E90\u548C\u5408\u4F5C\u673A\u4F1A\u3002","url":"https://silushangxun.com/about/","isPartOf":{"@type":"WebSite","name":"\u4E1D\u8DEF\u5546\u8BAF","url":"https://silushangxun.com/"}}</script>
   <script type="application/ld+json">{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"\u5173\u4E8E\u4E1D\u8DEF\u5546\u8BAF","item":"https://silushangxun.com/about/"}]}</script>
-<!-- bukit:analytics:google-analytics:G-MCQMG3QT3X:head:start -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-MCQMG3QT3X"></script>
-<script>
-window.dataLayer = window.dataLayer || [];
-function gtag(){dataLayer.push(arguments);}
-gtag('js', new Date());
-gtag('config', 'G-MCQMG3QT3X');
-</script>
-<!-- bukit:analytics:google-analytics:G-MCQMG3QT3X:head:end --></head>
+</head>
 <body>
   <a class="skip-link" href="#main-content">跳到主要内容</a>
   <header class="site-header">
@@ -83,13 +94,28 @@ gtag('config', 'G-MCQMG3QT3X');
       
   </main>
 
+  <section class="consent-banner" data-consent-banner aria-labelledby="analytics-consent-title" aria-describedby="analytics-consent-description" hidden>
+    <div class="consent-banner__panel">
+      <div class="consent-banner__copy">
+        <p class="consent-banner__eyebrow">隐私与分析</p>
+        <h2 id="analytics-consent-title">帮助我们改进丝路商讯</h2>
+        <p id="analytics-consent-description">我们使用 Google Analytics 了解网站访问情况。只有在您同意后才会启用分析 Cookie；广告相关权限保持关闭。<a href="/privacy/">阅读隐私声明</a></p>
+      </div>
+      <div class="consent-banner__actions">
+        <button class="consent-button consent-button-secondary" type="button" data-consent-reject>仅使用必要功能</button>
+        <button class="consent-button consent-button-primary" type="button" data-consent-accept>同意分析 Cookie</button>
+      </div>
+    </div>
+  </section>
+  <p class="visually-hidden" aria-live="polite" data-consent-status></p>
+
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
         <div><h2 class="footer-brand-title">丝路商讯</h2><p>连接中国与马来西亚的商业资讯、企业资源与合作机会，帮助企业看见市场、建立信任、找到伙伴。</p></div>
         <div><h3 class="footer-heading">核心入口</h3><a href="/insights/">商务资讯</a><a href="/companies/">企业列表</a><a href="/join/">申请入驻</a></div>
         <div><h3 class="footer-heading">企业分类</h3><a href="/china-companies/">中国企业</a><a href="/malaysia-companies/">马来西亚企业</a><a href="/companies/">服务机构</a></div>
-        <div><h3 class="footer-heading">联系合作</h3><a href="/contact/">联系我们</a><a href="/about/">关于平台</a><a href="/join/">提交企业资料</a><a href="/privacy/">隐私声明</a></div>
+        <div><h3 class="footer-heading">联系合作</h3><a href="/contact/">联系我们</a><a href="/about/">关于平台</a><a href="/join/">提交企业资料</a><a href="/privacy/">隐私声明</a><button class="footer-link-button" type="button" data-consent-settings hidden>Cookie 设置</button></div>
       </div>
       <div class="footer-bottom">
         © <span data-copyright-year>2026</span> 丝路商讯 Silk Road Business

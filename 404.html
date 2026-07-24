@@ -10,6 +10,7 @@
   <link rel="icon" href="/favicon.svg" type="image/svg+xml">
   <link rel="icon" href="/favicon.ico" sizes="any">
   <link rel="apple-touch-icon" href="/apple-touch-icon.png" sizes="180x180">
+  <script src="/assets/js/consent.js"></script>
   <link rel="stylesheet" href="/assets/css/style.css">
 </head>
 <body class="error-document">
@@ -56,13 +57,28 @@
     </section>
   </main>
 
+  <section class="consent-banner" data-consent-banner aria-labelledby="analytics-consent-title" aria-describedby="analytics-consent-description" hidden>
+    <div class="consent-banner__panel">
+      <div class="consent-banner__copy">
+        <p class="consent-banner__eyebrow">隐私与分析</p>
+        <h2 id="analytics-consent-title">帮助我们改进丝路商讯</h2>
+        <p id="analytics-consent-description">我们使用 Google Analytics 了解网站访问情况。只有在您同意后才会启用分析 Cookie；广告相关权限保持关闭。<a href="/privacy/">阅读隐私声明</a></p>
+      </div>
+      <div class="consent-banner__actions">
+        <button class="consent-button consent-button-secondary" type="button" data-consent-reject>仅使用必要功能</button>
+        <button class="consent-button consent-button-primary" type="button" data-consent-accept>同意分析 Cookie</button>
+      </div>
+    </div>
+  </section>
+  <p class="visually-hidden" aria-live="polite" data-consent-status></p>
+
   <footer class="site-footer">
     <div class="container">
       <div class="footer-grid">
         <div><h2 class="footer-brand-title">丝路商讯</h2><p>连接中国与马来西亚的商业资讯、企业资源与合作机会，帮助企业看见市场、建立信任、找到伙伴。</p></div>
         <div><h3 class="footer-heading">核心入口</h3><a href="/insights/">商务资讯</a><a href="/companies/">企业列表</a><a href="/join/">申请入驻</a></div>
         <div><h3 class="footer-heading">企业分类</h3><a href="/china-companies/">中国企业</a><a href="/malaysia-companies/">马来西亚企业</a><a href="/companies/">服务机构</a></div>
-        <div><h3 class="footer-heading">联系合作</h3><a href="/contact/">联系我们</a><a href="/about/">关于平台</a><a href="/join/">提交企业资料</a><a href="/privacy/">隐私声明</a></div>
+        <div><h3 class="footer-heading">联系合作</h3><a href="/contact/">联系我们</a><a href="/about/">关于平台</a><a href="/join/">提交企业资料</a><a href="/privacy/">隐私声明</a><button class="footer-link-button" type="button" data-consent-settings hidden>Cookie 设置</button></div>
       </div>
       <div class="footer-bottom">
         © <span data-copyright-year>2026</span> 丝路商讯

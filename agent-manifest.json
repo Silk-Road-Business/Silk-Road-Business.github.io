@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-21T18:25:00+00:00",
+  "generatedAt": "2026-07-24T12:32:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -66,6 +66,37 @@
       "publishedAt": "2026-07-13T14:54:00+00:00"
     },
     {
+      "id": "ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue",
+      "canonicalId": "ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue",
+      "route": "/insights/ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue/"
+        }
+      ],
+      "publishedAt": "2026-07-24T12:32:00+00:00"
+    },
+    {
       "id": "\u5E02\u573A\u89C2\u5BDF",
       "canonicalId": "\u5E02\u573A\u89C2\u5BDF",
       "route": "/insights/category/\u5E02\u573A\u89C2\u5BDF/",
@@ -125,7 +156,7 @@
           "url": "https://silushangxun.com/insights/category/\u653F\u7B56\u52A8\u6001/"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u6587\u65C5\u5546\u8BAF",
@@ -156,7 +187,69 @@
           "url": "https://silushangxun.com/insights/category/\u6587\u65C5\u5546\u8BAF/"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
+    },
+    {
+      "id": "\u6587\u65C5\u5546\u8BAF",
+      "canonicalId": "\u6587\u65C5\u5546\u8BAF",
+      "route": "/insights/category/\u6587\u65C5\u5546\u8BAF/page/2/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/category/\u6587\u65C5\u5546\u8BAF/page/2/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/category/\u6587\u65C5\u5546\u8BAF/page/2/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/\u6587\u65C5\u5546\u8BAF.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/\u6587\u65C5\u5546\u8BAF.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/category/\u6587\u65C5\u5546\u8BAF/page/2/"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00+08:00"
+    },
+    {
+      "id": "china-asean-tourism-dialogue-held-in-langkawi-malaysia",
+      "canonicalId": "china-asean-tourism-dialogue-held-in-langkawi-malaysia",
+      "route": "/insights/china-asean-tourism-dialogue-held-in-langkawi-malaysia/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/china-asean-tourism-dialogue-held-in-langkawi-malaysia/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/china-asean-tourism-dialogue-held-in-langkawi-malaysia/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/china-asean-tourism-dialogue-held-in-langkawi-malaysia.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/china-asean-tourism-dialogue-held-in-langkawi-malaysia.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/china-asean-tourism-dialogue-held-in-langkawi-malaysia/"
+        }
+      ],
+      "publishedAt": "2026-07-24T12:32:00+00:00"
     },
     {
       "id": "escape-malaysia-for-a-cool-summer",
@@ -376,6 +469,37 @@
       "publishedAt": "2026-07-19T04:55:00+00:00"
     },
     {
+      "id": "swinburne-confucius-institute-joins-i-love-sarawak-celebrations",
+      "canonicalId": "swinburne-confucius-institute-joins-i-love-sarawak-celebrations",
+      "route": "/insights/swinburne-confucius-institute-joins-i-love-sarawak-celebrations/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/swinburne-confucius-institute-joins-i-love-sarawak-celebrations/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/swinburne-confucius-institute-joins-i-love-sarawak-celebrations/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/swinburne-confucius-institute-joins-i-love-sarawak-celebrations.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/swinburne-confucius-institute-joins-i-love-sarawak-celebrations.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/swinburne-confucius-institute-joins-i-love-sarawak-celebrations/"
+        }
+      ],
+      "publishedAt": "2026-07-24T12:32:00+00:00"
+    },
+    {
       "id": "tags",
       "canonicalId": "tags",
       "route": "/insights/tags/",
@@ -404,7 +528,38 @@
           "url": "https://silushangxun.com/insights/tags/"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
+    },
+    {
+      "id": "\u4E1C\u76DF",
+      "canonicalId": "\u4E1C\u76DF",
+      "route": "/insights/tags/\u4E1C\u76DF/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/tags/\u4E1C\u76DF/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/tags/\u4E1C\u76DF/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/\u4E1C\u76DF.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/\u4E1C\u76DF.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/tags/\u4E1C\u76DF/"
+        }
+      ],
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u4E2D\u56FD",
@@ -435,7 +590,7 @@
           "url": "https://silushangxun.com/insights/tags/\u4E2D\u56FD/"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u4F01\u4E1A\u52A8\u6001",
@@ -528,7 +683,7 @@
           "url": "https://silushangxun.com/insights/tags/\u6559\u80B2/"
         }
       ],
-      "publishedAt": "2026-07-17T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u6570\u5B57\u7ECF\u6D4E",
@@ -590,7 +745,7 @@
           "url": "https://silushangxun.com/insights/tags/\u6587\u5316/"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u65C5\u6E38",
@@ -621,7 +776,7 @@
           "url": "https://silushangxun.com/insights/tags/\u65C5\u6E38/"
         }
       ],
-      "publishedAt": "2026-07-20T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
     },
     {
       "id": "\u9A6C\u6765\u897F\u4E9A",
@@ -652,7 +807,38 @@
           "url": "https://silushangxun.com/insights/tags/\u9A6C\u6765\u897F\u4E9A/"
         }
       ],
-      "publishedAt": "2026-07-22T00:00:00+08:00"
+      "publishedAt": "2026-07-24T00:00:00+08:00"
+    },
+    {
+      "id": "\u9A6C\u6765\u897F\u4E9A",
+      "canonicalId": "\u9A6C\u6765\u897F\u4E9A",
+      "route": "/insights/tags/\u9A6C\u6765\u897F\u4E9A/page/2/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/tags/\u9A6C\u6765\u897F\u4E9A/page/2/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/tags/\u9A6C\u6765\u897F\u4E9A/page/2/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/\u9A6C\u6765\u897F\u4E9A.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/\u9A6C\u6765\u897F\u4E9A.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/tags/\u9A6C\u6765\u897F\u4E9A/page/2/"
+        }
+      ],
+      "publishedAt": "2026-07-17T00:00:00+08:00"
     },
     {
       "id": "usts-confucius-institute-chinese-ink-painting-class",
