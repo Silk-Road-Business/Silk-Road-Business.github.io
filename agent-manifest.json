@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-07-24T19:04:00+00:00",
+  "generatedAt": "2026-07-25T04:32:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -64,6 +64,37 @@
         }
       ],
       "publishedAt": "2026-07-13T14:54:00+00:00"
+    },
+    {
+      "id": "airtrunk-johor-data-center-9-billion-loan",
+      "canonicalId": "airtrunk-johor-data-center-9-billion-loan",
+      "route": "/insights/airtrunk-johor-data-center-9-billion-loan/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/airtrunk-johor-data-center-9-billion-loan/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/airtrunk-johor-data-center-9-billion-loan/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/airtrunk-johor-data-center-9-billion-loan.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/airtrunk-johor-data-center-9-billion-loan.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/airtrunk-johor-data-center-9-billion-loan/"
+        }
+      ],
+      "publishedAt": "2026-07-25T04:32:00+00:00"
     },
     {
       "id": "ambassador-ouyang-yujing-attends-china-malaysia-tourism-dialogue",
@@ -376,6 +407,37 @@
       "publishedAt": "2026-07-19T04:55:00+00:00"
     },
     {
+      "id": "malacca-semiconductor-hub-industrial-legacy",
+      "canonicalId": "malacca-semiconductor-hub-industrial-legacy",
+      "route": "/insights/malacca-semiconductor-hub-industrial-legacy/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/malacca-semiconductor-hub-industrial-legacy/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/malacca-semiconductor-hub-industrial-legacy/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/malacca-semiconductor-hub-industrial-legacy.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/malacca-semiconductor-hub-industrial-legacy.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/malacca-semiconductor-hub-industrial-legacy/"
+        }
+      ],
+      "publishedAt": "2026-07-25T04:30:00+00:00"
+    },
+    {
       "id": "malaysia-east-coast-rail-link-logistics-hub-targets-900-billion-ringgit-2047",
       "canonicalId": "malaysia-east-coast-rail-link-logistics-hub-targets-900-billion-ringgit-2047",
       "route": "/insights/malaysia-east-coast-rail-link-logistics-hub-targets-900-billion-ringgit-2047/",
@@ -467,6 +529,37 @@
         }
       ],
       "publishedAt": "2026-07-19T04:55:00+00:00"
+    },
+    {
+      "id": "ql-resources-13-billion-innofood-park-perak",
+      "canonicalId": "ql-resources-13-billion-innofood-park-perak",
+      "route": "/insights/ql-resources-13-billion-innofood-park-perak/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/ql-resources-13-billion-innofood-park-perak/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/ql-resources-13-billion-innofood-park-perak/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/ql-resources-13-billion-innofood-park-perak.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/ql-resources-13-billion-innofood-park-perak.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/ql-resources-13-billion-innofood-park-perak/"
+        }
+      ],
+      "publishedAt": "2026-07-25T04:32:00+00:00"
     },
     {
       "id": "roti-tisu-viral-among-chinese-tourists-malaysia",
@@ -745,7 +838,7 @@
           "url": "https://silushangxun.com/insights/tags/\u4F01\u4E1A\u52A8\u6001/"
         }
       ],
-      "publishedAt": "2026-07-24T00:00:00+08:00"
+      "publishedAt": "2026-07-25T00:00:00+08:00"
     },
     {
       "id": "\u4F9B\u5E94\u94FE",
@@ -774,6 +867,37 @@
         {
           "kind": "jsonld",
           "url": "https://silushangxun.com/insights/tags/\u4F9B\u5E94\u94FE/"
+        }
+      ],
+      "publishedAt": "2026-07-25T00:00:00+08:00"
+    },
+    {
+      "id": "\u5236\u9020\u4E1A",
+      "canonicalId": "\u5236\u9020\u4E1A",
+      "route": "/insights/tags/\u5236\u9020\u4E1A/",
+      "language": "und",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/tags/\u5236\u9020\u4E1A/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/tags/\u5236\u9020\u4E1A/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/\u5236\u9020\u4E1A.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/\u5236\u9020\u4E1A.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/tags/\u5236\u9020\u4E1A/"
         }
       ],
       "publishedAt": "2026-07-25T00:00:00+08:00"
@@ -900,7 +1024,7 @@
           "url": "https://silushangxun.com/insights/tags/\u6570\u5B57\u7ECF\u6D4E/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-25T00:00:00+08:00"
     },
     {
       "id": "\u6587\u5316",
@@ -1024,7 +1148,7 @@
           "url": "https://silushangxun.com/insights/tags/\u9A6C\u6765\u897F\u4E9A/page/2/"
         }
       ],
-      "publishedAt": "2026-07-18T00:00:00+08:00"
+      "publishedAt": "2026-07-20T00:00:00+08:00"
     },
     {
       "id": "usts-confucius-institute-chinese-ink-painting-class",

@@ -3,23 +3,24 @@
 
 ## Page
 
-- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 4 项。
+- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 7 项。
 - [商务资讯：政策动态](https://silushangxun.com/insights/category/政策动态/): 浏览“政策动态”下的内容，共 2 项。
 - [资讯标签](https://silushangxun.com/insights/tags/): 按标签浏览商务资讯。
-- [标签：供应链](https://silushangxun.com/insights/tags/供应链/): 浏览“供应链”下的内容，共 2 项。
-- [标签：投资](https://silushangxun.com/insights/tags/投资/): 浏览“投资”下的内容，共 2 项。
+- [标签：企业动态](https://silushangxun.com/insights/tags/企业动态/): 浏览“企业动态”下的内容，共 5 项。
+- [标签：供应链](https://silushangxun.com/insights/tags/供应链/): 浏览“供应链”下的内容，共 3 项。
+- [标签：制造业](https://silushangxun.com/insights/tags/制造业/): 浏览“制造业”下的内容，共 1 项。
+- [标签：投资](https://silushangxun.com/insights/tags/投资/): 浏览“投资”下的内容，共 5 项。
 - [标签：政策法规](https://silushangxun.com/insights/tags/政策法规/): 浏览“政策法规”下的内容，共 1 项。
-- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 14 项。
+- [标签：数字经济](https://silushangxun.com/insights/tags/数字经济/): 浏览“数字经济”下的内容，共 3 项。
+- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 17 项。
 - [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 11 项。
 - [标签：东盟](https://silushangxun.com/insights/tags/东盟/): 浏览“东盟”下的内容，共 1 项。
 - [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 9 项。
 - [标签：中马经贸](https://silushangxun.com/insights/tags/中马经贸/): 浏览“中马经贸”下的内容，共 1 项。
-- [标签：企业动态](https://silushangxun.com/insights/tags/企业动态/): 浏览“企业动态”下的内容，共 2 项。
 - [标签：教育](https://silushangxun.com/insights/tags/教育/): 浏览“教育”下的内容，共 3 项。
 - [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 9 项。
 - [标签：旅游](https://silushangxun.com/insights/tags/旅游/): 浏览“旅游”下的内容，共 7 项。
-- [标签：数字经济](https://silushangxun.com/insights/tags/数字经济/): 浏览“数字经济”下的内容，共 1 项。
-- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-14 项，共 14 项。
+- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-17 项，共 17 项。
 - [商务资讯：文旅商讯 - 第 2 页](https://silushangxun.com/insights/category/文旅商讯/page/2/): 浏览“文旅商讯”下的内容，第 2 页，显示第 10-11 项，共 11 项。
 
 ## Pages
@@ -31,6 +32,9 @@
 
 ## Posts
 
+- [拥50年工业底蕴　马六甲可成半导体重镇](https://silushangxun.com/insights/malacca-semiconductor-hub-industrial-legacy/): 马来西亚上市公司联合会总会长苏进权指出，马六甲凭借50年工业底蕴和半导体生态，可进一步把握工业算力与数据中心带来的新机遇，构建绿色智能产业生态。
+- [全利资源在霹雳半港建设总投资高达13亿令吉的创意食品工业园](https://silushangxun.com/insights/ql-resources-13-billion-innofood-park-perak/): 全利资源在霹雳半港建设总投资13亿令吉的创意食品工业园，计划10年内将年产能从5万吨提升至18万吨，打造未来的永续蛋白食品制造基地。
+- [AirTrunk柔佛项目筹94亿贷款 AI数据中心陷举债竞赛](https://silushangxun.com/insights/airtrunk-johor-data-center-9-billion-loan/): 黑石集团旗下AirTrunk为柔佛数据中心项目敲定约94亿令吉贷款，反映AI基础设施扩张推高融资需求与债务风险，国际资本仍看好大马区域枢纽潜力。
 - [沙巴推动能源转型与总体规划 哈芝芝：2035年再生能源占比达50%](https://silushangxun.com/insights/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035/): 沙巴首席部长哈芝芝诺宣布，州政府透过「沙巴能源路线图与总体规划2040」推动再生能源发展，目标2035年再生能源占全州发电容量50%，目前再生能源发电量约307兆瓦，占比16%。
 - [马来西亚东铁打造沿线物流枢纽　放眼2047年创造900亿令吉价值](https://silushangxun.com/insights/malaysia-east-coast-rail-link-logistics-hub-targets-900-billion-ringgit-2047/): 马来西亚东海岸铁路计划预计2047年为大马GDP累计贡献800至900亿令吉，沿线吉兰丹、登嘉楼、彭亨将打造物流枢纽，推动东西海岸均衡发展。
 - [重庆轨道交通与马来西亚Prasarana签署合作备忘，运营体系国际输出](https://silushangxun.com/insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/): 重庆轨道交通与马来西亚国家基建公司签署合作备忘录，围绕单轨运营管理、资产管理、预测性维修、数字化运营和人才培养开展合作，显示中国轨道交通国际化正从工程建设走向运营体系输出。
