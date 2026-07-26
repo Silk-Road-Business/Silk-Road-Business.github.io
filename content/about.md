@@ -6,4 +6,4 @@
 - Review Status: published
 - Canonical: https://silushangxun.com/about/
 
-丝路商讯致力于成为连接中国与马来西亚商业资讯、企业资源和合作机会的内容平台。
+丝路商讯是面向中马商业合作的信息整理、企业展示与资源连接平台。

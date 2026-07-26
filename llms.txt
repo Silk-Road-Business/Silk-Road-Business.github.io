@@ -1,37 +1,52 @@
 ﻿# 丝路商讯
 > 连接中国与马来西亚商业资讯、企业资源和跨境合作机会。
 
+## Authors
+
+- [丝路商讯编辑部](https://silushangxun.com/authors/silushangxun-editorial-team/): 丝路商讯编辑部负责中马商业资讯的选题、来源核对、编辑审校与更正维护，面向跨境经营者整理可追溯的政策、市场与企业公开信息。
+
 ## Page
 
+- [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 15 项。
+- [资讯标签](https://silushangxun.com/insights/tags/): 按标签浏览商务资讯。
+- [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 13 项。
+- [标签：旅游](https://silushangxun.com/insights/tags/旅游/): 浏览“旅游”下的内容，共 11 项。
+- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 21 项。
 - [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 7 项。
 - [商务资讯：政策动态](https://silushangxun.com/insights/category/政策动态/): 浏览“政策动态”下的内容，共 2 项。
-- [资讯标签](https://silushangxun.com/insights/tags/): 按标签浏览商务资讯。
 - [标签：企业动态](https://silushangxun.com/insights/tags/企业动态/): 浏览“企业动态”下的内容，共 5 项。
 - [标签：供应链](https://silushangxun.com/insights/tags/供应链/): 浏览“供应链”下的内容，共 3 项。
 - [标签：制造业](https://silushangxun.com/insights/tags/制造业/): 浏览“制造业”下的内容，共 1 项。
 - [标签：投资](https://silushangxun.com/insights/tags/投资/): 浏览“投资”下的内容，共 5 项。
 - [标签：政策法规](https://silushangxun.com/insights/tags/政策法规/): 浏览“政策法规”下的内容，共 1 项。
 - [标签：数字经济](https://silushangxun.com/insights/tags/数字经济/): 浏览“数字经济”下的内容，共 3 项。
-- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 17 项。
-- [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 11 项。
 - [标签：东盟](https://silushangxun.com/insights/tags/东盟/): 浏览“东盟”下的内容，共 1 项。
 - [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 9 项。
 - [标签：中马经贸](https://silushangxun.com/insights/tags/中马经贸/): 浏览“中马经贸”下的内容，共 1 项。
 - [标签：教育](https://silushangxun.com/insights/tags/教育/): 浏览“教育”下的内容，共 3 项。
-- [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 9 项。
-- [标签：旅游](https://silushangxun.com/insights/tags/旅游/): 浏览“旅游”下的内容，共 7 项。
-- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-17 项，共 17 项。
-- [商务资讯：文旅商讯 - 第 2 页](https://silushangxun.com/insights/category/文旅商讯/page/2/): 浏览“文旅商讯”下的内容，第 2 页，显示第 10-11 项，共 11 项。
+- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-18 项，共 21 项。
+- [商务资讯：文旅商讯 - 第 2 页](https://silushangxun.com/insights/category/文旅商讯/page/2/): 浏览“文旅商讯”下的内容，第 2 页，显示第 10-15 项，共 15 项。
+- [标签：文化 - 第 2 页](https://silushangxun.com/insights/tags/文化/page/2/): 浏览“文化”下的内容，第 2 页，显示第 10-13 项，共 13 项。
+- [标签：旅游 - 第 2 页](https://silushangxun.com/insights/tags/旅游/page/2/): 浏览“旅游”下的内容，第 2 页，显示第 10-11 项，共 11 项。
+- [标签：马来西亚 - 第 3 页](https://silushangxun.com/insights/tags/马来西亚/page/3/): 浏览“马来西亚”下的内容，第 3 页，显示第 19-21 项，共 21 项。
 
 ## Pages
 
+- [版权与转载](https://silushangxun.com/copyright/): 说明丝路商讯对公开资料、原创整理、引用、转载和侵权通知的处理原则。
+- [更正与更新](https://silushangxun.com/corrections/): 说明读者、企业和来源方如何提交更正请求，以及平台如何处理更新记录。
+- [事实核查](https://silushangxun.com/fact-checking/): 说明丝路商讯在发布文章和企业资料前如何核对事实、来源与时间信息。
+- [编辑政策](https://silushangxun.com/editorial-policy/): 说明丝路商讯的选题、来源、审核、商业内容标注与发布边界。
 - [隐私声明](https://silushangxun.com/privacy/): 了解企业入驻申请资料的收集、使用、保存、跨境处理及申请人权利。
 - [申请企业入驻](https://silushangxun.com/join/): 将企业展示在丝路商讯企业列表中，建立面向中马市场的可信展示入口与合作连接机会。
-- [联系我们](https://silushangxun.com/contact/): 欢迎企业、服务机构、商会组织与项目方联系丝路商讯，开展内容发布、企业入驻与商务合作。
-- [关于丝路商讯](https://silushangxun.com/about/): 丝路商讯致力于成为连接中国与马来西亚商业资讯、企业资源和合作机会的内容平台。
+- [联系我们](https://silushangxun.com/contact/): 通过邮箱联系丝路商讯，提交企业入驻、内容更正、来源补充、版权异议或合作信息。
+- [关于丝路商讯](https://silushangxun.com/about/): 丝路商讯是面向中马商业合作的信息整理、企业展示与资源连接平台。
 
 ## Posts
 
+- [安华主持2026大马色彩节开幕　吸引逾700国际游客赴马体验多元文化](https://silushangxun.com/insights/anwar-opens-malaysia-colour-festival-with-700-international-tourists/): 首相安华在独立广场主持2026大马色彩节开幕暨大游行，活动汇集3500名舞蹈员，并吸引超过700名国际游客体验马来西亚多元文化。
+- [80多年后，跟着郁达夫的文字重走马六甲](https://silushangxun.com/insights/retracing-malacca-through-yu-dafu-writings/): 文章以郁达夫1940年南洋游记为线索，重走从吉隆坡到马六甲的旅程，串联橡胶园、古城遗迹、鸡场街夜市与河上灯影，展现文学记忆与今日旅行的交汇。
+- [马来西亚的甜，不止一种颜色](https://silushangxun.com/insights/malaysias-sweetness-beyond-one-color/): 马来西亚的甜品种类丰富多样，从煎蕊（Cendol）到椰丝糯米糕等各色传统甜品，展现了多元文化融合下的独特美食魅力与甜蜜滋味。
+- [吉隆坡四个好逛的小众文艺街区](https://silushangxun.com/insights/kl-four-artsy-neighborhoods/): 吉隆坡拥有多个充满文艺气息的小众街区，各具特色的咖啡馆、独立书店、创意空间和艺术画廊分散在城市的各个角落，等待探索发现。
 - [拥50年工业底蕴　马六甲可成半导体重镇](https://silushangxun.com/insights/malacca-semiconductor-hub-industrial-legacy/): 马来西亚上市公司联合会总会长苏进权指出，马六甲凭借50年工业底蕴和半导体生态，可进一步把握工业算力与数据中心带来的新机遇，构建绿色智能产业生态。
 - [全利资源在霹雳半港建设总投资高达13亿令吉的创意食品工业园](https://silushangxun.com/insights/ql-resources-13-billion-innofood-park-perak/): 全利资源在霹雳半港建设总投资13亿令吉的创意食品工业园，计划10年内将年产能从5万吨提升至18万吨，打造未来的永续蛋白食品制造基地。
 - [AirTrunk柔佛项目筹94亿贷款 AI数据中心陷举债竞赛](https://silushangxun.com/insights/airtrunk-johor-data-center-9-billion-loan/): 黑石集团旗下AirTrunk为柔佛数据中心项目敲定约94亿令吉贷款，反映AI基础设施扩张推高融资需求与债务风险，国际资本仍看好大马区域枢纽潜力。

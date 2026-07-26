@@ -6,4 +6,4 @@
 - Review Status: published
 - Canonical: https://silushangxun.com/contact/
 
-欢迎企业、服务机构、商会组织与项目方联系丝路商讯，开展内容发布、企业入驻与商务合作。
+通过邮箱联系丝路商讯，提交企业入驻、内容更正、来源补充、版权异议或合作信息。

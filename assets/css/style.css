@@ -979,6 +979,10 @@ main {
   outline-offset: 3px;
 }
 
+.company-panel .info-list dd span + span::before {
+  content: "、";
+}
+
 .company-website-link svg {
   width: 18px;
   height: 18px;
@@ -1730,6 +1734,58 @@ main {
   border: 1px solid #e5e5e5;
   border-radius: 10px;
   background: #fafafa;
+  font-size: 14px;
+  line-height: 1.7;
+}
+
+.article-trust,
+.source-list,
+.related-entities,
+.related-content,
+.commercial-disclaimer {
+  margin-top: 24px;
+  padding: 18px;
+  border: 1px solid var(--border-gray);
+  border-radius: 12px;
+  background: #fff;
+}
+
+.article-trust h2,
+.source-list h2,
+.related-entities h2,
+.related-content h2 {
+  margin: 0 0 10px;
+  color: var(--deep-navy);
+  font-size: 16px;
+}
+
+.article-trust__items,
+.related-entities__list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.article-trust a,
+.source-list a,
+.related-entities a,
+.related-content a {
+  color: var(--deep-navy);
+  font-weight: 800;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+}
+
+.source-list ul {
+  display: grid;
+  gap: 8px;
+  margin: 0;
+  padding-left: 20px;
+}
+
+.commercial-disclaimer {
+  border-left: 4px solid var(--silk-gold);
+  color: var(--muted-text);
   font-size: 14px;
   line-height: 1.7;
 }
