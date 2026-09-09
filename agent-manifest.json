@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T15:19:00+00:00",
+  "generatedAt": "2026-09-09T15:22:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -993,7 +993,7 @@
           "url": "https://silushangxun.com/insights/srbiz-trial-prasarana-news-20260909/"
         }
       ],
-      "publishedAt": "2026-09-09T15:19:00+00:00"
+      "publishedAt": "2026-09-09T15:22:00+00:00"
     },
     {
       "id": "swinburne-confucius-institute-joins-i-love-sarawak-celebrations",
