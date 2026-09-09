@@ -5,10 +5,6 @@
 
 - [丝路商讯编辑部](https://silushangxun.com/authors/silushangxun-editorial-team/): 丝路商讯编辑部负责中马商业资讯的选题、来源核对、编辑审校与更正维护，面向跨境经营者整理可追溯的政策、市场与企业公开信息。
 
-## Companies
-
-- [流程试用｜Prasarana Malaysia Berhad](https://silushangxun.com/companies/srbiz-trial-prasarana-company-20260909/): 用于验证企业资料新增、修改、关联、撤回和恢复的临时试用条目。
-
 ## Page
 
 - [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 15 项。
@@ -47,7 +43,6 @@
 
 ## Posts
 
-- [流程试用｜Prasarana与重庆轨道交通合作资讯](https://silushangxun.com/insights/srbiz-trial-prasarana-news-20260909/): 用于验证资讯与企业关联的临时试用副本，内容依据Prasarana公开声明。
 - [安华主持2026大马色彩节开幕　吸引逾700国际游客赴马体验多元文化](https://silushangxun.com/insights/anwar-opens-malaysia-colour-festival-with-700-international-tourists/): 首相安华在独立广场主持2026大马色彩节开幕暨大游行，活动汇集3500名舞蹈员，并吸引超过700名国际游客体验马来西亚多元文化。
 - [80多年后，跟着郁达夫的文字重走马六甲](https://silushangxun.com/insights/retracing-malacca-through-yu-dafu-writings/): 文章以郁达夫1940年南洋游记为线索，重走从吉隆坡到马六甲的旅程，串联橡胶园、古城遗迹、鸡场街夜市与河上灯影，展现文学记忆与今日旅行的交汇。
 - [AirTrunk柔佛项目筹94亿贷款 AI数据中心陷举债竞赛](https://silushangxun.com/insights/airtrunk-johor-data-center-9-billion-loan/): 黑石集团旗下AirTrunk为柔佛数据中心项目敲定约94亿令吉贷款，反映AI基础设施扩张推高融资需求与债务风险，国际资本仍看好大马区域枢纽潜力。
