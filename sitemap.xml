@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://silushangxun.com/</loc>
-    <lastmod>2026-07-25</lastmod>
+    <lastmod>2026-09-09</lastmod>
   </url>
   <url>
     <loc>https://silushangxun.com/about/</loc>
@@ -11,6 +11,14 @@
   <url>
     <loc>https://silushangxun.com/authors/silushangxun-editorial-team/</loc>
     <lastmod>2026-07-26</lastmod>
+  </url>
+  <url>
+    <loc>https://silushangxun.com/companies/</loc>
+    <lastmod>2026-09-09</lastmod>
+  </url>
+  <url>
+    <loc>https://silushangxun.com/companies/prasarana-malaysia-berhad/</loc>
+    <lastmod>2026-09-09</lastmod>
   </url>
   <url>
     <loc>https://silushangxun.com/contact/</loc>
@@ -219,6 +227,10 @@
   <url>
     <loc>https://silushangxun.com/join/</loc>
     <lastmod>2026-07-13</lastmod>
+  </url>
+  <url>
+    <loc>https://silushangxun.com/malaysia-companies/</loc>
+    <lastmod>2026-09-09</lastmod>
   </url>
   <url>
     <loc>https://silushangxun.com/privacy/</loc>
