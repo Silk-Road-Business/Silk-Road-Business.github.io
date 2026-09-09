@@ -26,14 +26,7 @@
   "credibilityScore": null,
   "qualityFlags": [],
   "entities": [],
-  "relations": [
-    {
-      "type": "related-to",
-      "target": "\u6D41\u7A0B\u8BD5\u7528\uFF5CPrasarana Malaysia Berhad",
-      "targetType": "company",
-      "targetId": "srbiz-trial-prasarana-company-20260909"
-    }
-  ],
+  "relations": [],
   "media": [
     {
       "kind": "image",
