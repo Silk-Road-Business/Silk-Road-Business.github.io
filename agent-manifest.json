@@ -1,7 +1,7 @@
 ﻿{
   "schema": "https://bukit.dev/schemas/agent-manifest.v1.json",
   "schemaVersion": "1.0",
-  "generatedAt": "2026-09-09T13:09:00+00:00",
+  "generatedAt": "2026-09-09T15:41:00+00:00",
   "documents": [
     {
       "id": "about",
@@ -64,6 +64,37 @@
         }
       ],
       "publishedAt": "2026-07-26T14:29:00+00:00"
+    },
+    {
+      "id": "srbiz-trial-prasarana-company-20260909",
+      "canonicalId": "srbiz-trial-prasarana-company-20260909",
+      "route": "/companies/srbiz-trial-prasarana-company-20260909/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/companies/srbiz-trial-prasarana-company-20260909/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/companies/srbiz-trial-prasarana-company-20260909/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/companies/srbiz-trial-prasarana-company-20260909/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/companies/srbiz-trial-prasarana-company-20260909/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/companies/srbiz-trial-prasarana-company-20260909/"
+        }
+      ],
+      "publishedAt": "2026-09-09T15:41:00+00:00"
     },
     {
       "id": "contact",
@@ -932,6 +963,37 @@
         }
       ],
       "publishedAt": "2026-09-09T11:21:00+00:00"
+    },
+    {
+      "id": "srbiz-trial-prasarana-news-20260909",
+      "canonicalId": "srbiz-trial-prasarana-news-20260909",
+      "route": "/insights/srbiz-trial-prasarana-news-20260909/",
+      "language": "zh-CN",
+      "reviewStatus": "published",
+      "entities": [],
+      "representations": [
+        {
+          "kind": "html",
+          "url": "/insights/srbiz-trial-prasarana-news-20260909/"
+        },
+        {
+          "kind": "semantic-html",
+          "url": "/insights/srbiz-trial-prasarana-news-20260909/"
+        },
+        {
+          "kind": "json",
+          "url": "/content/insights/srbiz-trial-prasarana-news-20260909/index.html.json"
+        },
+        {
+          "kind": "markdown",
+          "url": "/content/insights/srbiz-trial-prasarana-news-20260909/index.html.md"
+        },
+        {
+          "kind": "jsonld",
+          "url": "https://silushangxun.com/insights/srbiz-trial-prasarana-news-20260909/"
+        }
+      ],
+      "publishedAt": "2026-09-09T15:41:00+00:00"
     },
     {
       "id": "swinburne-confucius-institute-joins-i-love-sarawak-celebrations",
