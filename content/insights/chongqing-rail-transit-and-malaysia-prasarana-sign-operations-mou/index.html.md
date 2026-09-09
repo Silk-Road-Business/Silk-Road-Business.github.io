@@ -1,0 +1,13 @@
+# 重庆轨道交通与马来西亚Prasarana签署合作备忘，运营体系国际输出
+
+- Route: /insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/
+- Language: zh-CN
+- Type: post
+- Review Status: published
+- Canonical: https://silushangxun.com/insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/
+
+重庆轨道交通与马来西亚国家基建公司签署合作备忘录，围绕单轨运营管理、资产管理、预测性维修、数字化运营和人才培养开展合作，显示中国轨道交通国际化正从工程建设走向运营体系输出。
+
+## Body
+
+题为“Prasarana taps China expertise to boost monorail operations”的报道截图，下方为合作双方展示文件的合影。    7月9日，马来西亚国家基建公司（Prasarana Malaysia Berhad）与重庆轨道交通（Chongqing Rail Transit，CRT）签署合作备忘录（MoU），双方将在单轨系统运营管理领域开展合作，合作内容涵盖运营管理、资产管理、预测性维修、数字化运营、数据分析、安全管理及人才培养等多个方面，旨在进一步提升吉隆坡单轨系统（KL Monorail）的运营效率和可靠性。   * * *   值得关注的是，双方寻求的是运营合作   根据双方公布的信息，本次合作重点并非车辆采购或工程建设，而是围绕轨道交通运营管理经验开展技术交流与能力建设。     Prasarana 与重庆轨道交通合作框架图，列出运营管理、资产管理、预防性维修、数字化建设、数据分析、安全管理和人才培养。    Prasarana负责运营吉隆坡城市轨道交通网络，包括轻轨（LRT）、捷运（MRT）以及吉隆坡单轨（KL Monorail）等系统。其中，KL Monorail于2003年投入运营，全长约8.6公里，共设11座车站，是连接吉隆坡市中心的重要公共交通线路之一，已经持续运营22年。   ![](https://mmbiz.qpic.cn/mmbiz_jpg/9a3ZdvqeFcibg05DRLJ06Rwbl6wqO4Lbnfia4iaL29m7V8Va2AEh4BgGgIrf8GQN5rptIPbvIyJia1wiaFnld1UvQOibIqgrh9ejQ3kfib3YPpBcv8/640?wx_fmt=jpeg&from=appmsg)![](https://mmbiz.qpic.cn/sz_mmbiz_jpg/9a3ZdvqeFcibthMtMkZicF4H6IQIYVibe0A6jic6UmcrcekSXkxV04ZL13Via72xbJBcCwCcXIlZTxy0eSdW52cHMFCia2KicMicgdiabhFbUeibWhJJ8/640?wx_fmt=jpeg&from=appmsg)   ——对于这一阶段的城市轨道交通而言，运营可靠性、资产管理和预测性维修的重要性正不断提升。相较于新增设备采购，如何提升既有系统运营效率、延长设备寿命、降低维护成本，成为运营单位更加关注的问题。在这一背景下，拥有全球规模最大跨座式单轨运营网络之一、积累丰富复杂工况运营经验的重庆轨道交通，自然成为值得借鉴的合作对象。   ![](https://mmbiz.qpic.cn/mmbiz_jpg/9a3ZdvqeFcick2XMibeLuAFuI7eq6xkvqZK9cMI3I5YD2t6lxTmhtLXOVSGpOPibZQ6RkchkcrgodF7yu47ZCtVovoJFgJgdgoxnqguibRY4Sq0/640?wx_fmt=jpeg&from=appmsg)重庆轨道交通运营着全球规模最大的跨座式单轨系统之一，是中国跨座式单轨系统的代表城市，目前运营的2号线和3号线两条单轨线路总长达98公里，在单轨运营组织、设备维护、客流管理、数字化运营等方面积累了大量实践经验，为国际合作提供了新的基础。   * * *   从建设走向运营，中国城市轨道交通国际化正在迈向新阶段   与近年来中国企业海外轨道交通合作主要集中于工程承包、车辆出口和系统设备供应不同，此次重庆轨道交通与Prasarana签署合作备忘录，值得关注的变化在于，国际合作内容正逐步由"建设项目"向"运营体系"延伸。   事实上，在国际轨道交通市场，运营咨询早已成为成熟运营企业的重要国际业务。德国铁路（DB）、法国RATP集团、日本铁路企业以及香港铁路公司（MTR）均长期向海外提供运营咨询、资产管理、人才培训及运营标准输出等服务，其竞争优势更多来自长期积累形成的运营体系，而不仅仅是工程建设能力。   ![](https://mmbiz.qpic.cn/mmbiz_png/9a3ZdvqeFcicuSnhia333wEKhXnwA7pssV7vcNDygEticYfyAuygKLgXIwyn5DTbkGsqeGFwMicYVNxtJUrNY2OW08dq7y1vq1gsMLCtcd4phz0/640?wx_fmt=png&from=appmsg)随着中国城市轨道交通进入大规模运营阶段，北京、上海、广州、深圳、重庆、天津等城市已积累起丰富的运营管理经验，在运营组织、数字化管理、预测性维修、客流组织及资产全生命周期管理等方面形成了较为成熟的实践体系。未来，中国轨道交通国际化或将逐步由工程建设和装备出口，进一步向运营咨询、技术标准、数字化运营及人才培养等更高附加值领域延伸。国际市场对此也有需求——对于运营期的城市轨道交通系统而言，如何提升可靠性、降低全生命周期维护成本、加强数字化运营和资产管理，往往比新建线路更具现实意义。
