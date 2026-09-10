@@ -10,4 +10,4 @@
 
 ## Body
 
-沙巴推动能源转型与总体规划 哈芝芝：2035年再生能源占比达50%
+[沙巴推动能源转型与总体规划 哈芝芝：2035年再生能源占比达50%](</insights/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035/>)

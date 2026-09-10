@@ -10,4 +10,4 @@
 
 ## Body
 
-吉隆坡四个好逛的小众文艺街区       四家马来西亚餐馆：椰浆饭、贝果、瓦煲粉面与点心
+[吉隆坡四个好逛的小众文艺街区](</insights/four-hidden-arts-neighborhoods-in-kuala-lumpur/>)  [四家马来西亚餐馆：椰浆饭、贝果、瓦煲粉面与点心](</insights/four-malaysia-restaurants-loved-by-celebrities/>)

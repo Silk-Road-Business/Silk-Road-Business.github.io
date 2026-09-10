@@ -10,4 +10,4 @@
 
 ## Body
 
-中国—东盟旅游对话在马来西亚兰卡威举行
+[中国—东盟旅游对话在马来西亚兰卡威举行](</insights/china-asean-tourism-dialogue-held-in-langkawi-malaysia/>)

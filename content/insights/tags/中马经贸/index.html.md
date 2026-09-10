@@ -10,4 +10,4 @@
 
 ## Body
 
-重庆轨道交通与马来西亚Prasarana签署合作备忘，运营体系国际输出
+[重庆轨道交通与马来西亚Prasarana签署合作备忘，运营体系国际输出](</insights/chongqing-rail-transit-and-malaysia-prasarana-sign-operations-mou/>)

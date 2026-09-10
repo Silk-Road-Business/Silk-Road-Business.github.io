@@ -10,4 +10,4 @@
 
 ## Body
 
-AirTrunk柔佛项目筹94亿贷款 AI数据中心陷举债竞赛       拥50年工业底蕴　马六甲可成半导体重镇       PTT协作斥2910万 收购中国物流软件
+[AirTrunk柔佛项目筹94亿贷款 AI数据中心陷举债竞赛](</insights/airtrunk-johor-data-center-9-billion-loan/>)  [拥50年工业底蕴　马六甲可成半导体重镇](</insights/malacca-semiconductor-hub-industrial-legacy/>)  [PTT协作斥2910万 收购中国物流软件](</insights/ptt-acquires-chinese-logistics-software-for-rm29-1-million/>)

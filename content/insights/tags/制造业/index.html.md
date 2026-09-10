@@ -10,4 +10,4 @@
 
 ## Body
 
-拥50年工业底蕴　马六甲可成半导体重镇
+[拥50年工业底蕴　马六甲可成半导体重镇](</insights/malacca-semiconductor-hub-industrial-legacy/>)

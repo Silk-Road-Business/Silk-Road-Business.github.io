@@ -10,4 +10,4 @@
 
 ## Body
 
-沙巴推动能源转型与总体规划 哈芝芝：2035年再生能源占比达50%       马来西亚东铁打造沿线物流枢纽　放眼2047年创造900亿令吉价值
+[沙巴推动能源转型与总体规划 哈芝芝：2035年再生能源占比达50%](</insights/sabah-energy-transition-master-plan-hajiji-targets-50-renewable-energy-by-2035/>)  [马来西亚东铁打造沿线物流枢纽　放眼2047年创造900亿令吉价值](</insights/malaysia-east-coast-rail-link-logistics-hub-targets-900-billion-ringgit-2047/>)
