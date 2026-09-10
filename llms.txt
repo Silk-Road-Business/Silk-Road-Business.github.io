@@ -40,7 +40,7 @@
 - [更正与更新](https://silushangxun.com/corrections/): 说明读者、企业和来源方如何提交更正请求，以及平台如何处理更新记录。
 - [编辑政策](https://silushangxun.com/editorial-policy/): 说明丝路商讯的选题、来源、审核、商业内容标注与发布边界。
 - [事实核查](https://silushangxun.com/fact-checking/): 说明丝路商讯在发布文章和企业资料前如何核对事实、来源与时间信息。
-- [隐私声明](https://silushangxun.com/privacy/): 了解企业入驻申请资料的收集、使用、保存、跨境处理及申请人权利。
+- [隐私声明](https://silushangxun.com/privacy/): 了解企业入驻申请资料和网站访问统计的处理方式、分析 Cookie 选择、保存与删除及联系渠道。
 - [关于丝路商讯](https://silushangxun.com/about/): 丝路商讯是面向中马商业合作的信息整理、企业展示与资源连接平台。
 - [联系我们](https://silushangxun.com/contact/): 通过邮箱联系丝路商讯，提交企业入驻、内容更正、来源补充、版权异议或合作信息。
 - [申请企业入驻](https://silushangxun.com/join/): 将企业展示在丝路商讯企业列表中，建立面向中马市场的可信展示入口与合作连接机会。
