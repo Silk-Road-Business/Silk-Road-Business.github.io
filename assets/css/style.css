@@ -1112,14 +1112,6 @@ main {
   font-weight: 700;
 }
 
-.company-application-status.is-submitting {
-  color: var(--deep-navy);
-}
-
-.company-application-status.is-success {
-  color: #176b54;
-}
-
 .company-application-status.is-error,
 .company-application-status.is-disabled {
   color: #9b3b32;

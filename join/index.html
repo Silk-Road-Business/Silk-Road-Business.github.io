@@ -97,20 +97,21 @@ gtag('config', 'G-MCQMG3QT3X');
     <div>
       <div class="section-kicker">Application Form</div>
       <h2 class="section-title">提交企业资料</h2>
-      <p class="section-desc" id="company-application-help">提交前请阅读<a href="/privacy/" target="_blank" rel="noopener">《隐私声明》</a>。请填写真实、完整的企业资料。提交后，资料将发送至丝路商讯使用的 Google Forms，供入驻审核及后续联系。</p>
+      <p class="section-desc" id="company-application-help">提交前请阅读<a href="/privacy/" target="_blank" rel="noopener">《隐私声明》</a>。请填写真实、完整的企业资料。提交后将前往 Google Forms 查看确认结果。只有该页面显示已收到回复，才表示提交成功；资料用于入驻审核及后续联系。</p>
     </div>
   </div>
   
   <form
+    id="company-application"
+    name="company_application"
     class="form-card company-application-form"
     method="post"
     action="https://docs.google.com/forms/d/e/1FAIpQLScfo9itPbqKsCWAxLw3cwnYiZUuO8WpeHf0-t3YeRfQJZx7AA/formResponse"
-    target="company-application-response"
+    target="_self"
     accept-charset="UTF-8"
     aria-describedby="company-application-help company-application-status"
     data-company-application-form
     data-min-fill-ms="2000"
-    data-timeout-ms="15000"
     >
     <div class="form-grid">
       <div class="form-field">
@@ -170,11 +171,9 @@ gtag('config', 'G-MCQMG3QT3X');
     </div>
     <p class="company-application-fallback" data-company-application-fallback>如果无法完成提交，可<a href="https://docs.google.com/forms/d/e/1FAIpQLScfo9itPbqKsCWAxLw3cwnYiZUuO8WpeHf0-t3YeRfQJZx7AA/viewform" target="_blank" rel="noopener noreferrer">前往备用 Google 表单</a>。</p>
     <noscript>
-      <p class="company-application-fallback">JavaScript 未启用，内嵌提交无法反馈结果。请<a href="https://docs.google.com/forms/d/e/1FAIpQLScfo9itPbqKsCWAxLw3cwnYiZUuO8WpeHf0-t3YeRfQJZx7AA/viewform" target="_blank" rel="noopener noreferrer">直接打开备用 Google 表单</a>完成申请。</p>
+      <p class="company-application-fallback">JavaScript 未启用，提交后仍会前往 Google Forms 查看结果。也可<a href="https://docs.google.com/forms/d/e/1FAIpQLScfo9itPbqKsCWAxLw3cwnYiZUuO8WpeHf0-t3YeRfQJZx7AA/viewform" target="_blank" rel="noopener noreferrer">直接打开备用 Google 表单</a>完成申请。</p>
     </noscript>
   </form>
-  
-  <iframe class="company-application-response-frame" name="company-application-response" title="企业入驻申请提交响应" hidden data-company-application-frame></iframe>
     </div></section>
         <section class="section soft"><div class="container"><div class="section-header"><div><div class="section-kicker">FAQ</div><h2 class="section-title">常见问题</h2></div></div><div class="faq-list"><div class="faq-item"><h3>企业资料后续可以修改吗？</h3><div><p>可以。正式 CMS 化后，企业资料可通过后台内容流程更新。</p>
   </div></div>
