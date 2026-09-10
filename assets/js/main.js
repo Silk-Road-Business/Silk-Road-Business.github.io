@@ -218,7 +218,7 @@
 
     consentReject.addEventListener('click', function () {
       window.SRBizConsent.rejectAnalytics();
-      hideConsentBanner('已保持仅使用必要功能，分析 Cookie 未启用。');
+      hideConsentBanner('已拒绝分析 Cookie。启用统计的页面仍会发送不使用分析 Cookie 的基本访问统计。');
     });
 
     consentSettingsButtons.forEach(function (settingsButton) {
