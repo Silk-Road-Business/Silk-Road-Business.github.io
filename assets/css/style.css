@@ -6,7 +6,7 @@
   --nanyang-teal: #1F7A78;
   --soft-gray: #F3F5F6;
   --border-gray: #D9D7D2;
-  --muted-text: #667085;
+  --muted-text: #626C7C;
   --white: #FFFFFF;
   --dark-footer: #071D2E;
   --shadow-sm: 0 4px 16px rgba(13, 53, 87, 0.06);
@@ -289,7 +289,7 @@ main {
 
 .btn-primary {
   background: var(--silk-gold);
-  color: var(--white);
+  color: var(--business-ink);
 }
 
 .btn-secondary {
@@ -415,7 +415,7 @@ main {
 
 .section-kicker {
   margin-bottom: 10px;
-  color: var(--silk-gold);
+  color: #8A5A18;
   font-weight: 800;
   letter-spacing: .08em;
   text-transform: uppercase;
@@ -1219,7 +1219,7 @@ main {
 }
 
 .footer-link-button:focus-visible {
-  outline: 3px solid var(--accent-gold);
+  outline: 3px solid #F6D89B;
   outline-offset: 4px;
 }
 
@@ -1252,6 +1252,11 @@ main {
   box-shadow: 0 24px 72px rgba(7, 29, 46, .24);
 }
 
+.consent-banner__copy,
+.consent-banner__actions {
+  min-width: 0;
+}
+
 .consent-banner__copy {
   max-width: 100%;
 }
@@ -1265,7 +1270,7 @@ main {
 
 .consent-banner__copy > p:last-child {
   margin: 4px 0 0;
-  color: var(--slate);
+  color: var(--business-ink);
   font-size: 13px;
   line-height: 1.55;
 }
@@ -1296,12 +1301,6 @@ main {
   transition: background .2s ease, border-color .2s ease, color .2s ease, transform .2s ease;
 }
 
-@media (min-width: 981px) {
-  .consent-banner__copy > p:last-child {
-    white-space: nowrap;
-  }
-}
-
 .consent-button:hover {
   transform: translateY(-2px);
 }
@@ -1318,7 +1317,7 @@ main {
 
 .consent-banner button:focus-visible,
 .consent-banner a:focus-visible {
-  outline: 3px solid var(--accent-gold);
+  outline: 3px solid var(--deep-navy);
   outline-offset: 3px;
 }
 
@@ -1758,12 +1757,17 @@ main {
   gap: 10px;
 }
 
+.article-trust__items {
+  color: var(--business-ink);
+}
+
 .article-trust a,
 .source-list a,
 .related-entities a,
 .related-content a {
   color: var(--deep-navy);
   font-weight: 800;
+  text-decoration: underline;
   text-decoration-thickness: 2px;
   text-underline-offset: 3px;
 }
@@ -2154,7 +2158,7 @@ main {
 
 .error-code {
   margin-bottom: 8px;
-  color: var(--silk-gold);
+  color: #8A5A18;
   font-size: clamp(56px, 8vw, 104px);
   font-weight: 900;
   line-height: 0.9;
