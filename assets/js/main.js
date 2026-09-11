@@ -63,23 +63,46 @@
     const submitButton = form.querySelector('[data-company-application-submit]');
     const status = form.querySelector('[data-company-application-status]');
     const honeypot = form.querySelector('[data-company-application-honeypot]');
+    const endpoint = form.getAttribute('data-endpoint');
     const openedAt = Date.now();
     const minFillMs = Number(form.getAttribute('data-min-fill-ms')) || 2000;
-    if (!submitButton || submitButton.disabled || !status) return;
-
-    form.addEventListener('submit', function (event) {
-      status.classList.remove('is-error');
-      if (honeypot && honeypot.value.trim() !== '') {
-        event.preventDefault();
-        status.textContent = '暂时无法提交，请稍后重试。';
-        status.classList.add('is-error');
-      } else if (Date.now() - openedAt < minFillMs) {
-        event.preventDefault();
-        status.textContent = '填写时间过短，请检查资料后再次提交。';
-        status.classList.add('is-error');
+    const fieldNames = ['company_name', 'contact_name', 'phone', 'email', 'country', 'industry', 'summary', 'cooperation', 'consent'];
+    let busy = false;
+    if (!submitButton || !status || !endpoint || form.getAttribute('aria-disabled') === 'true') return;
+    function message(text, error) {
+      status.textContent = text;
+      status.classList.toggle('is-error', Boolean(error));
+    }
+    submitButton.disabled = false;
+    form.addEventListener('submit', async function (event) {
+      event.preventDefault();
+      if (busy) return;
+      if (honeypot && honeypot.value.trim()) { message('暂时无法提交，请稍后重试。', true); return; }
+      if (Date.now() - openedAt < minFillMs) { message('填写时间过短，请检查资料后再次提交。', true); return; }
+      if (!form.reportValidity()) return;
+      busy = true;
+      submitButton.disabled = true;
+      const fields = {};
+      fieldNames.forEach(name => { fields[name] = form.elements.namedItem(name).value.trim(); form.elements.namedItem(name).disabled = true; });
+      message('正在提交，请稍候。');
+      try {
+        const response = await fetch(endpoint, { method: 'POST', headers: { 'Content-Type': 'application/json' }, credentials: 'omit', redirect: 'error', body: JSON.stringify({ fields }), signal: AbortSignal.timeout(20000) });
+        const body = await response.json();
+        if (response.ok && body.status === 'received' && body.code === 'received') {
+          message('已收到您的申请，等待人工审核。再次提交会新增一份申请。');
+          // Analytics is best-effort and must never turn confirmed receipt into uncertainty.
+          try { if (typeof window.gtag === 'function') window.gtag('event', 'generate_lead', { form_id: 'company-application' }); } catch (_) { /* Receipt remains confirmed. */ }
+        } else if (!response.ok && body.status === 'failed' && ['invalid_fields', 'rate_limited', 'unavailable'].includes(body.code)) {
+          const messages = { invalid_fields: '资料未通过检查，尚未提交。请检查必填项、邮箱及长度后重试。', rate_limited: '提交过于频繁，本次未保存。请稍后再试。', unavailable: '收件服务暂不可用，本次未保存。请稍后重试或联系站点。' };
+          message(messages[body.code], true);
+        } else throw new Error('unknown_receipt');
+      } catch (_) {
+        message('暂时无法确认是否收到申请，重新提交可能产生重复记录。您可以稍后重试或联系站点核对。', true);
+      } finally {
+        fieldNames.forEach(name => { form.elements.namedItem(name).disabled = false; });
+        busy = false;
+        submitButton.disabled = false;
       }
-      // Native navigation displays Google's actual receipt or validation error.
-      // No iframe load, submit event, or navigation is treated as a received lead.
     });
   });
 

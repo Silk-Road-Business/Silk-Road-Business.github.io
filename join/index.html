@@ -92,12 +92,11 @@ gtag('config', 'G-MCQMG3QT3X');
   </div></div>
   </article></div>
   
-  
   <div class="section-header company-application-header">
     <div>
       <div class="section-kicker">Application Form</div>
       <h2 class="section-title">提交企业资料</h2>
-      <p class="section-desc" id="company-application-help">提交前请阅读<a href="/privacy/" target="_blank" rel="noopener">《隐私声明》</a>。请填写真实、完整的企业资料。提交后将前往 Google Forms 查看确认结果。只有该页面显示已收到回复，才表示提交成功；资料用于入驻审核及后续联系。</p>
+      <p class="section-desc" id="company-application-help">提交前请阅读<a href="/privacy/" target="_blank" rel="noopener">《隐私声明》</a>。请填写真实、完整的企业资料。提交后请等待本站的收件结果；重复提交会新增申请，资料由人工审核。资料用于入驻审核及后续联系。</p>
     </div>
   </div>
   
@@ -106,7 +105,8 @@ gtag('config', 'G-MCQMG3QT3X');
     name="company_application"
     class="form-card company-application-form"
     method="post"
-    action="https://docs.google.com/forms/d/e/1FAIpQLScfo9itPbqKsCWAxLw3cwnYiZUuO8WpeHf0-t3YeRfQJZx7AA/formResponse"
+    action="#"
+    data-endpoint="https://srbiz-company-application.clrsdream.workers.dev/application"
     target="_self"
     accept-charset="UTF-8"
     aria-describedby="company-application-help company-application-status"
@@ -116,23 +116,23 @@ gtag('config', 'G-MCQMG3QT3X');
     <div class="form-grid">
       <div class="form-field">
         <label for="company-name">企业名称</label>
-        <input id="company-name" name="entry.1765277441" type="text" placeholder="请输入企业名称" autocomplete="organization" required >
+        <input id="company-name" name="company_name" maxlength="200" type="text" placeholder="请输入企业名称" autocomplete="organization" required >
       </div>
       <div class="form-field">
         <label for="contact-name">联系人</label>
-        <input id="contact-name" name="entry.685875251" type="text" placeholder="请输入联系人" autocomplete="name" required >
+        <input id="contact-name" name="contact_name" maxlength="100" type="text" placeholder="请输入联系人" autocomplete="name" required >
       </div>
       <div class="form-field">
         <label for="application-phone">联系电话</label>
-        <input id="application-phone" name="entry.1651505229" type="tel" placeholder="请输入联系电话" autocomplete="tel" required >
+        <input id="application-phone" name="phone" maxlength="50" type="tel" placeholder="请输入联系电话" autocomplete="tel" required >
       </div>
       <div class="form-field">
         <label for="application-email">联系邮箱</label>
-        <input id="application-email" name="entry.217537785" type="email" placeholder="请输入邮箱" autocomplete="email" required >
+        <input id="application-email" name="email" maxlength="254" type="email" placeholder="请输入邮箱" autocomplete="email" required >
       </div>
       <div class="form-field">
         <label for="country">企业国家 / 地区</label>
-        <select id="country" name="entry.904122558" autocomplete="country-name" required >
+        <select id="country" name="country" autocomplete="country-name" required >
           <option value="" selected disabled>请选择国家 / 地区</option>
           <option value="中国">中国</option>
           <option value="马来西亚">马来西亚</option>
@@ -141,19 +141,19 @@ gtag('config', 'G-MCQMG3QT3X');
       </div>
       <div class="form-field">
         <label for="industry">所属行业</label>
-        <input id="industry" name="entry.883619665" type="text" placeholder="例如：科技、旅游、商务服务" autocomplete="organization-title" required >
+        <input id="industry" name="industry" maxlength="200" type="text" placeholder="例如：科技、旅游、商务服务" autocomplete="organization-title" required >
       </div>
       <div class="form-field full">
         <label for="company-summary">企业简介</label>
-        <textarea id="company-summary" name="entry.1540124934" placeholder="请简要介绍企业主营业务、服务能力与市场方向" required ></textarea>
+        <textarea id="company-summary" name="summary" maxlength="5000" placeholder="请简要介绍企业主营业务、服务能力与市场方向" required ></textarea>
       </div>
       <div class="form-field full">
         <label for="needs">合作需求</label>
-        <textarea id="needs" name="entry.1077444564" placeholder="请说明希望寻找客户、代理、渠道、服务机构或项目合作" required ></textarea>
+        <textarea id="needs" name="cooperation" maxlength="5000" placeholder="请说明希望寻找客户、代理、渠道、服务机构或项目合作" required ></textarea>
       </div>
       <div class="form-field full company-application-consent">
         <label for="data-consent">
-          <input id="data-consent" name="entry.481043292" type="checkbox" value="同意丝路商讯将本资料用于企业入驻审核及后续联系" required >
+          <input id="data-consent" name="consent" type="checkbox" value="同意丝路商讯将本资料用于企业入驻审核及后续联系" required >
           <span>同意丝路商讯将本资料用于企业入驻审核及后续联系</span>
         </label>
         <p class="company-application-privacy">详细了解资料如何处理，请阅读<a href="/privacy/" target="_blank" rel="noopener">《隐私声明》</a>。</p>
@@ -166,12 +166,12 @@ gtag('config', 'G-MCQMG3QT3X');
     </div>
   
     <div class="company-application-actions">
-      <button class="btn btn-dark" type="submit" data-company-application-submit >提交申请</button>
+      <button class="btn btn-dark" type="submit" data-company-application-submit disabled>提交申请</button>
       <p id="company-application-status" class="company-application-status" aria-live="polite" aria-atomic="true" data-company-application-status></p>
     </div>
-    <p class="company-application-fallback" data-company-application-fallback>如果无法完成提交，可<a href="https://docs.google.com/forms/d/e/1FAIpQLScfo9itPbqKsCWAxLw3cwnYiZUuO8WpeHf0-t3YeRfQJZx7AA/viewform" target="_blank" rel="noopener noreferrer">前往备用 Google 表单</a>。</p>
+    <p class="company-application-fallback">如需帮助，请<a href="/contact/">联系本站</a>。</p>
     <noscript>
-      <p class="company-application-fallback">JavaScript 未启用，提交后仍会前往 Google Forms 查看结果。也可<a href="https://docs.google.com/forms/d/e/1FAIpQLScfo9itPbqKsCWAxLw3cwnYiZUuO8WpeHf0-t3YeRfQJZx7AA/viewform" target="_blank" rel="noopener noreferrer">直接打开备用 Google 表单</a>完成申请。</p>
+      <p class="company-application-fallback">JavaScript 未启用，请启用后提交，或<a href="/contact/">联系本站</a>。</p>
     </noscript>
   </form>
     </div></section>
