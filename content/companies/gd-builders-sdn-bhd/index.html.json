@@ -1,0 +1,39 @@
+{
+  "id": "gd-builders-sdn-bhd",
+  "slug": "gd-builders-sdn-bhd",
+  "canonicalUrlKey": "gd-builders-sdn-bhd",
+  "route": "/companies/gd-builders-sdn-bhd/",
+  "title": "\u4E0A\u6D77\u5E7F\u5730\u57FA\u7840\u5DE5\u7A0B\u6709\u9650\u516C\u53F8",
+  "summary": "\u4E0A\u6D77\u5E7F\u5730\u57FA\u7840\u5DE5\u7A0B\u6709\u9650\u516C\u53F8\uFF08GD BUILDERS SDN BHD\uFF09\u5217\u4E8E\u9A6C\u6765\u897F\u4E9A\u4E2D\u8D44\u4F01\u4E1A\u603B\u5546\u4F1A2026\u5E748\u6708\u66F4\u65B0\u7684\u4F1A\u5458\u8D44\u6599\u4E2D\u3002\u901A\u8BAF\u5F55\u5217\u793A\u884C\u4E1A\u4E3A\u5EFA\u7B51\u3002",
+  "body": "\u003Cp\u003E\u4E0A\u6D77\u5E7F\u5730\u57FA\u7840\u5DE5\u7A0B\u6709\u9650\u516C\u53F8\uFF08GD BUILDERS SDN BHD\uFF09\u5217\u4E8E\u9A6C\u6765\u897F\u4E9A\u4E2D\u8D44\u4F01\u4E1A\u603B\u5546\u4F1A2026\u5E748\u6708\u66F4\u65B0\u7684\u4F1A\u5458\u8D44\u6599\u4E2D\u3002\u901A\u8BAF\u5F55\u5217\u793A\u884C\u4E1A\u4E3A\u5EFA\u7B51\u3002\u003C/p\u003E\n\u003Cp\u003E\u8D44\u6599\u4F9D\u636E\uFF1A\u9A6C\u6765\u897F\u4E9A\u4E2D\u8D44\u4F01\u4E1A\u603B\u5546\u4F1A\u300A2026\u5E748\u670819\u65E5\u666E\u901A\u4F1A\u5458\u901A\u8BAF\u5F55\u300B\u3002\u672C\u8F6E\u6838\u5BF9\u8303\u56F4\u4E3A\u516C\u5F00\u901A\u8BAF\u5F55\u4E2D\u7684\u4F01\u4E1A\u540D\u79F0\u53CA\u5217\u793A\u4FE1\u606F\uFF0C\u672A\u6838\u9A8C\u4F01\u4E1A\u767B\u8BB0\u3001\u7ECF\u8425\u72B6\u6001\u6216\u4FE1\u7528\u72B6\u51B5\u3002\u003C/p\u003E\n",
+  "language": "zh-CN",
+  "type": "company",
+  "collection": "companies",
+  "tags": [],
+  "sections": [],
+  "author": null,
+  "authorType": null,
+  "organization": null,
+  "publishedAt": "2026-07-26T15:34:00+00:00",
+  "updatedAt": "2026-09-12T14:01:00+00:00",
+  "expiresAt": null,
+  "reviewedAt": null,
+  "originalSource": null,
+  "citations": [],
+  "references": [],
+  "syncStatus": null,
+  "reviewStatus": "published",
+  "credibilityScore": null,
+  "qualityFlags": [],
+  "entities": [],
+  "relations": [
+    {
+      "type": "cites",
+      "target": "2026\u5E748\u670819\u65E5\u666E\u901A\u4F1A\u5458\u901A\u8BAF\u5F55",
+      "targetType": "source",
+      "targetId": "ceccm-ordinary-2026-08"
+    }
+  ],
+  "media": [],
+  "canonical": "https://silushangxun.com/companies/gd-builders-sdn-bhd/"
+}

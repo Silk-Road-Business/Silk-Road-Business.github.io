@@ -1052,6 +1052,10 @@ main {
   resize: vertical;
 }
 
+.company-application-header h2 {
+  scroll-margin-top: 90px;
+}
+
 .company-application-header {
   margin-top: 64px;
 }
@@ -1780,7 +1784,6 @@ main {
   line-height: 1.7;
 }
 
-.article-trust,
 .source-list,
 .related-entities,
 .related-content,
@@ -1792,7 +1795,6 @@ main {
   background: #fff;
 }
 
-.article-trust h2,
 .source-list h2,
 .related-entities h2,
 .related-content h2 {
@@ -1801,18 +1803,36 @@ main {
   font-size: 16px;
 }
 
-.article-trust__items,
 .related-entities__list {
   display: flex;
   flex-wrap: wrap;
   gap: 10px;
 }
 
-.article-trust__items {
-  color: var(--business-ink);
+.article-author {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  color: var(--white);
 }
 
-.article-trust a,
+.article-author__names {
+  display: inline-flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.article-author a {
+  color: inherit;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.article-author a:focus-visible {
+  outline: 2px solid currentColor;
+  outline-offset: 4px;
+}
+
 .source-list a,
 .related-entities a,
 .related-content a {
@@ -1889,17 +1909,6 @@ main {
     grid-template-columns: 1fr;
   }
 
-  .category-tabs {
-    flex-wrap: nowrap;
-    overflow-x: auto;
-    padding-bottom: 8px;
-    margin-right: -16px;
-  }
-
-  .category-tabs a {
-    flex: 0 0 auto;
-  }
-
   .article-hero {
     padding: 42px 0 32px;
   }
@@ -1952,6 +1961,10 @@ main {
     max-width: none;
     font-size: 15.5px;
     line-height: 1.78;
+  }
+
+  .article-content figure {
+    margin: 22px 0;
   }
 
   .article-content .article-intro {
