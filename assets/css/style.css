@@ -600,6 +600,16 @@ main {
   font-weight: 750;
 }
 
+.page-hero .company-meta span {
+  color: #F6D89B;
+  background: var(--deep-navy);
+  border: 1px solid #F6D89B;
+}
+
+.page-hero .company-meta {
+  margin-top: 22px;
+}
+
 .taxonomy-chip {
   text-decoration: none;
 }
@@ -1366,9 +1376,28 @@ main {
 
   .hero-grid,
   .company-profile,
-  .list-layout,
-  .footer-grid {
+  .list-layout {
     grid-template-columns: 1fr;
+  }
+
+  .footer-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 32px 24px;
+  }
+
+  .footer-grid > :first-child,
+  .footer-grid > :last-child {
+    grid-column: 1 / -1;
+  }
+
+  .footer-grid > :last-child {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    column-gap: 24px;
+  }
+
+  .footer-grid > :last-child .footer-heading {
+    grid-column: 1 / -1;
   }
 
   .filter-bar {
@@ -1397,6 +1426,28 @@ main {
 }
 
 @media (max-width: 720px) {
+  .site-footer {
+    padding: 40px 0 24px;
+  }
+
+  .footer-grid {
+    gap: 24px 18px;
+    margin-bottom: 28px;
+  }
+
+  .footer-grid > :last-child {
+    column-gap: 18px;
+  }
+
+  .footer-grid a,
+  .footer-link-button {
+    margin: 6px 0;
+  }
+
+  .footer-bottom {
+    padding-top: 20px;
+  }
+
   .container {
     width: min(100% - 32px, 1200px);
   }
