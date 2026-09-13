@@ -20,11 +20,13 @@
 
 ## Page
 
-- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 8 项。
+- [商务资讯：市场观察](https://silushangxun.com/insights/category/市场观察/): 浏览“市场观察”下的内容，共 9 项。
 - [资讯标签](https://silushangxun.com/insights/tags/): 按标签浏览商务资讯。
+- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 10 项。
+- [标签：中马经贸](https://silushangxun.com/insights/tags/中马经贸/): 浏览“中马经贸”下的内容，共 2 项。
+- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 23 项。
 - [标签：供应链](https://silushangxun.com/insights/tags/供应链/): 浏览“供应链”下的内容，共 4 项。
 - [标签：制造业](https://silushangxun.com/insights/tags/制造业/): 浏览“制造业”下的内容，共 2 项。
-- [标签：马来西亚](https://silushangxun.com/insights/tags/马来西亚/): 浏览“马来西亚”下的内容，共 22 项。
 - [商务资讯：文旅商讯](https://silushangxun.com/insights/category/文旅商讯/): 浏览“文旅商讯”下的内容，共 15 项。
 - [标签：文化](https://silushangxun.com/insights/tags/文化/): 浏览“文化”下的内容，共 13 项。
 - [标签：旅游](https://silushangxun.com/insights/tags/旅游/): 浏览“旅游”下的内容，共 11 项。
@@ -33,15 +35,14 @@
 - [标签：投资](https://silushangxun.com/insights/tags/投资/): 浏览“投资”下的内容，共 5 项。
 - [标签：政策法规](https://silushangxun.com/insights/tags/政策法规/): 浏览“政策法规”下的内容，共 1 项。
 - [标签：数字经济](https://silushangxun.com/insights/tags/数字经济/): 浏览“数字经济”下的内容，共 3 项。
-- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-18 项，共 22 项。
+- [标签：马来西亚 - 第 2 页](https://silushangxun.com/insights/tags/马来西亚/page/2/): 浏览“马来西亚”下的内容，第 2 页，显示第 10-18 项，共 23 项。
 - [标签：东盟](https://silushangxun.com/insights/tags/东盟/): 浏览“东盟”下的内容，共 1 项。
-- [标签：中国](https://silushangxun.com/insights/tags/中国/): 浏览“中国”下的内容，共 9 项。
-- [标签：中马经贸](https://silushangxun.com/insights/tags/中马经贸/): 浏览“中马经贸”下的内容，共 1 项。
 - [标签：教育](https://silushangxun.com/insights/tags/教育/): 浏览“教育”下的内容，共 3 项。
 - [商务资讯：文旅商讯 - 第 2 页](https://silushangxun.com/insights/category/文旅商讯/page/2/): 浏览“文旅商讯”下的内容，第 2 页，显示第 10-15 项，共 15 项。
 - [标签：文化 - 第 2 页](https://silushangxun.com/insights/tags/文化/page/2/): 浏览“文化”下的内容，第 2 页，显示第 10-13 项，共 13 项。
+- [标签：马来西亚 - 第 3 页](https://silushangxun.com/insights/tags/马来西亚/page/3/): 浏览“马来西亚”下的内容，第 3 页，显示第 19-23 项，共 23 项。
+- [标签：中国 - 第 2 页](https://silushangxun.com/insights/tags/中国/page/2/): 浏览“中国”下的内容，第 2 页，显示第 10 项，共 10 项。
 - [标签：旅游 - 第 2 页](https://silushangxun.com/insights/tags/旅游/page/2/): 浏览“旅游”下的内容，第 2 页，显示第 10-11 项，共 11 项。
-- [标签：马来西亚 - 第 3 页](https://silushangxun.com/insights/tags/马来西亚/page/3/): 浏览“马来西亚”下的内容，第 3 页，显示第 19-22 项，共 22 项。
 
 ## Pages
 
@@ -56,6 +57,7 @@
 
 ## Posts
 
+- [MCTE将于9月17日在马来西亚吉隆坡开幕，涵盖建材五金与食品饮料](https://silushangxun.com/insights/mcte-2026-kuala-lumpur/): MCTE展期为9月17日至19日，相关专展涵盖建材五金和食品饮料。计划到场的企业可按产品范围筛选专展，并确认入场及现场安排。
 - [亿滋莎阿南9000万令吉巧克力原料设施启用](https://silushangxun.com/insights/mondelez-shah-alam-rm90-million-crumb-tower/): MIDA于2026年9月11日发布消息称，亿滋在莎阿南吉百利工厂启用投资9000万令吉的巧克力原料生产设施，推进原料本地生产与供应链能力建设。
 - [安华主持2026大马色彩节开幕　吸引逾700国际游客赴马体验多元文化](https://silushangxun.com/insights/anwar-opens-malaysia-colour-festival-with-700-international-tourists/): 首相安华在独立广场主持2026大马色彩节开幕暨大游行，活动汇集3500名舞蹈员，并吸引超过700名国际游客体验马来西亚多元文化。
 - [80多年后，跟着郁达夫的文字重走马六甲](https://silushangxun.com/insights/retracing-malacca-through-yu-dafu-writings/): 文章以郁达夫1940年南洋游记为线索，重走从吉隆坡到马六甲的旅程，串联橡胶园、古城遗迹、鸡场街夜市与河上灯影，展现文学记忆与今日旅行的交汇。
